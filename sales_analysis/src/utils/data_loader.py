@@ -6,7 +6,7 @@ def excel_date(excel_date):
     """Convert Excel serial date to Python datetime"""
     return datetime(1900, 1, 1) + timedelta(days=int(excel_date) - 2)
 
-def load_and_clean_data(filepath="data/sales_data .csv"):
+def load_and_clean_data(filepath="../data/sales_data .csv"):
     """
     Load and clean raw sales data with Excel dates and missing column names.
     """
