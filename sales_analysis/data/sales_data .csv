@@ -1,0 +1,1226 @@
+Date,Country,Product,Units_Sold,Revenue,Cost,Profit
+43862,India,Chocolate Chip,292,1460,584,876
+43983,India,Chocolate Chip,2518,12590,5036,7554
+44166,India,Chocolate Chip,1817,9085,3634,5451
+43862,India,Chocolate Chip,2363,11815,4726,7089
+44105,India,Chocolate Chip,1295,6475,2590,3885
+44166,India,Chocolate Chip,1916,9580,3832,5748
+44166,India,Chocolate Chip,2852,14260,5704,8556
+44166,India,Chocolate Chip,2729,13645,5458,8187
+43891,India,Chocolate Chip,1774,8870,3548,5322
+44105,India,Chocolate Chip,2009,10045,4018,6027
+43831,India,Chocolate Chip,4251,21255,8502,12753
+44075,India,Chocolate Chip,218,1090,436,654
+44075,India,Chocolate Chip,2074,10370,4148,6222
+44166,India,Chocolate Chip,2431,12155,4862,7293
+43952,India,Chocolate Chip,1702,8510,3404,5106
+43952,India,Chocolate Chip,257,1285,514,771
+43983,India,Chocolate Chip,1094,5470,2188,3282
+43831,India,Chocolate Chip,873,4365,1746,2619
+44013,India,Chocolate Chip,2105,10525,4210,6315
+44013,India,Chocolate Chip,4026,20130,8052,12078
+44044,India,Chocolate Chip,2394,11970,4788,7182
+44136,India,Chocolate Chip,1366,6830,2732,4098
+43983,India,Chocolate Chip,2632,13160,5264,7896
+43983,India,Chocolate Chip,1583,7915,3166,4749
+44105,India,Chocolate Chip,1565,7825,3130,4695
+44105,India,Chocolate Chip,1249,6245,2498,3747
+43891,India,Chocolate Chip,2428,12140,4856,7284
+44136,India,Chocolate Chip,700,3500,1400,2100
+43922,India,Chocolate Chip,1614,8070,3228,4842
+44044,India,Chocolate Chip,2559,12795,5118,7677
+43922,India,Chocolate Chip,723,3615,1446,2169
+43983,India,Fortune Cookie,2518,2518,503.6,2014.4
+44013,India,Fortune Cookie,2666,2666,533.2,2132.8
+44044,India,Fortune Cookie,1830,1830,366,1464
+43891,India,Fortune Cookie,1967,1967,393.4,1573.6
+43862,India,Fortune Cookie,488,488,97.6,390.4
+43983,India,Fortune Cookie,708,708,141.6,566.4
+43922,India,Fortune Cookie,3803,3803,760.6,3042.4
+44136,India,Fortune Cookie,2321,2321,464.2,1856.8
+44105,India,Fortune Cookie,2734,2734,546.8,2187.2
+44105,India,Fortune Cookie,1249,1249,249.8,999.2
+43831,India,Fortune Cookie,2228,2228,445.6,1782.4
+43952,India,Fortune Cookie,200,200,40,160
+44075,India,Fortune Cookie,388,388,77.6,310.4
+44166,India,Fortune Cookie,2300,2300,460,1840
+44166,India,Oatmeal Raisin,1916,9580,4215.2,5364.8
+44044,India,Oatmeal Raisin,552,2760,1214.4,1545.6
+43983,India,Oatmeal Raisin,1135,5675,2497,3178
+43952,India,Oatmeal Raisin,1645,8225,3619,4606
+44136,India,Oatmeal Raisin,1118,5590,2459.6,3130.4
+43983,India,Oatmeal Raisin,708,3540,1557.6,1982.4
+44105,India,Oatmeal Raisin,1269,6345,2791.8,3553.2
+44013,India,Oatmeal Raisin,1631,8155,3588.2,4566.8
+43862,India,Oatmeal Raisin,2240,11200,4928,6272
+43922,India,Oatmeal Raisin,3521,17605,7746.2,9858.8
+44075,India,Oatmeal Raisin,707,3535,1555.4,1979.6
+44105,India,Oatmeal Raisin,2734,13670,6014.8,7655.2
+43831,India,Oatmeal Raisin,1659,8295,3649.8,4645.2
+43891,India,Oatmeal Raisin,888,4440,1953.6,2486.4
+43831,India,Snickerdoodle,1619,6476,2428.5,4047.5
+44075,India,Snickerdoodle,1445,5780,2167.5,3612.5
+43922,India,Snickerdoodle,743,2972,1114.5,1857.5
+44105,India,Snickerdoodle,1295,5180,1942.5,3237.5
+44166,India,Snickerdoodle,2852,11408,4278,7130
+43952,India,Snickerdoodle,831,3324,1246.5,2077.5
+43983,India,Snickerdoodle,2844,11376,4266,7110
+44044,India,Snickerdoodle,1884,7536,2826,4710
+43983,India,Snickerdoodle,1094,4376,1641,2735
+44013,India,Snickerdoodle,819,3276,1228.5,2047.5
+43862,India,Snickerdoodle,1937,7748,2905.5,4842.5
+44136,India,Snickerdoodle,2689,10756,4033.5,6722.5
+43891,India,Snickerdoodle,923,3692,1384.5,2307.5
+44105,India,Snickerdoodle,1496,5984,2244,3740
+44166,India,Snickerdoodle,2300,9200,3450,5750
+43862,India,Sugar,2001,6003,2501.25,3501.75
+44166,India,Sugar,1817,5451,2271.25,3179.75
+43891,India,Sugar,1326,3978,1657.5,2320.5
+43922,India,Sugar,944,2832,1180,1652
+44166,India,Sugar,2729,8187,3411.25,4775.75
+44044,India,Sugar,1874,5622,2342.5,3279.5
+43983,India,Sugar,2844,8532,3555,4977
+44166,India,Sugar,1582,4746,1977.5,2768.5
+43831,India,Sugar,3245,9735,4056.25,5678.75
+44075,India,Sugar,2134,6402,2667.5,3734.5
+44136,India,Sugar,2529,7587,3161.25,4425.75
+43952,India,Sugar,2109,6327,2636.25,3690.75
+43983,India,Sugar,1583,4749,1978.75,2770.25
+44105,India,Sugar,1565,4695,1956.25,2738.75
+44105,India,Sugar,1496,4488,1870,2618
+44013,India,Sugar,866,2598,1082.5,1515.5
+44044,India,White Chocolate Macadamia Nut,923,5538,2538.25,2999.75
+44105,India,White Chocolate Macadamia Nut,2009,12054,5524.75,6529.25
+43922,India,White Chocolate Macadamia Nut,3851,23106,10590.25,12515.75
+44166,India,White Chocolate Macadamia Nut,2431,14586,6685.25,7900.75
+43862,India,White Chocolate Macadamia Nut,952,5712,2618,3094
+43952,India,White Chocolate Macadamia Nut,1262,7572,3470.5,4101.5
+43983,India,White Chocolate Macadamia Nut,1135,6810,3121.25,3688.75
+44166,India,White Chocolate Macadamia Nut,1582,9492,4350.5,5141.5
+43891,India,White Chocolate Macadamia Nut,598,3588,1644.5,1943.5
+44013,India,White Chocolate Macadamia Nut,3794,22764,10433.5,12330.5
+44075,India,White Chocolate Macadamia Nut,567,3402,1559.25,1842.75
+44105,India,White Chocolate Macadamia Nut,1269,7614,3489.75,4124.25
+43831,India,White Chocolate Macadamia Nut,384,2304,1056,1248
+44136,India,White Chocolate Macadamia Nut,1808,10848,4972,5876
+43983,India,White Chocolate Macadamia Nut,2632,15792,7238,8554
+43770,India,Chocolate Chip,1725,8625,3450,5175
+43800,India,Chocolate Chip,2152,10760,4304,6456
+43709,India,Chocolate Chip,2349,11745,4698,7047
+43739,India,Chocolate Chip,1228,6140,2456,3684
+43739,India,Chocolate Chip,1389,6945,2778,4167
+43800,India,Chocolate Chip,1802,9010,3604,5406
+43739,India,Chocolate Chip,2299,11495,4598,6897
+43770,India,Chocolate Chip,1404,7020,2808,4212
+43709,India,Chocolate Chip,2470,12350,4940,7410
+43739,India,Chocolate Chip,1743,8715,3486,5229
+43770,India,Chocolate Chip,2222,11110,4444,6666
+43739,India,Fortune Cookie,345,345,69,276
+43739,India,Fortune Cookie,2851,2851,570.2,2280.8
+43709,India,Fortune Cookie,1283,1283,256.6,1026.4
+43800,India,Fortune Cookie,1611,1611,322.2,1288.8
+43800,India,Oatmeal Raisin,1778,8890,3911.6,4978.4
+43739,India,Oatmeal Raisin,1228,6140,2701.6,3438.4
+43709,India,Oatmeal Raisin,2761,13805,6074.2,7730.8
+43739,India,Oatmeal Raisin,1743,8715,3834.6,4880.4
+43800,India,Snickerdoodle,908,3632,1362,2270
+43739,India,Snickerdoodle,2851,11404,4276.5,7127.5
+43739,India,Snickerdoodle,2299,9196,3448.5,5747.5
+43770,India,Snickerdoodle,1560,6240,2340,3900
+43709,India,Snickerdoodle,2416,9664,3624,6040
+43739,India,Sugar,1389,4167,1736.25,2430.75
+43800,India,Sugar,2436,7308,3045,4263
+43770,India,Sugar,2935,8805,3668.75,5136.25
+43709,India,Sugar,623,1869,778.75,1090.25
+43739,India,Sugar,269,807,336.25,470.75
+43770,India,Sugar,2954,8862,3692.5,5169.5
+43739,India,White Chocolate Macadamia Nut,345,2070,948.75,1121.25
+43770,India,White Chocolate Macadamia Nut,2092,12552,5753,6799
+43709,India,White Chocolate Macadamia Nut,2646,15876,7276.5,8599.5
+43800,India,White Chocolate Macadamia Nut,1916,11496,5269,6227
+43739,India,White Chocolate Macadamia Nut,269,1614,739.75,874.25
+43862,India,Chocolate Chip,292,1460,584,876
+43983,India,Chocolate Chip,2518,12590,5036,7554
+44166,India,Chocolate Chip,1817,9085,3634,5451
+43862,India,Chocolate Chip,2363,11815,4726,7089
+44105,India,Chocolate Chip,1295,6475,2590,3885
+44166,India,Chocolate Chip,1916,9580,3832,5748
+44166,India,Chocolate Chip,2852,14260,5704,8556
+44166,India,Chocolate Chip,2729,13645,5458,8187
+43891,India,Chocolate Chip,1774,8870,3548,5322
+44105,India,Chocolate Chip,2009,10045,4018,6027
+43831,India,Chocolate Chip,4251,21255,8502,12753
+44075,India,Chocolate Chip,218,1090,436,654
+44075,India,Chocolate Chip,2074,10370,4148,6222
+44166,India,Chocolate Chip,2431,12155,4862,7293
+43952,India,Chocolate Chip,1702,8510,3404,5106
+43952,India,Chocolate Chip,257,1285,514,771
+43983,India,Chocolate Chip,1094,5470,2188,3282
+43831,India,Chocolate Chip,873,4365,1746,2619
+44013,India,Chocolate Chip,2105,10525,4210,6315
+44013,India,Chocolate Chip,4026,20130,8052,12078
+44044,India,Chocolate Chip,2394,11970,4788,7182
+44136,India,Chocolate Chip,1366,6830,2732,4098
+43983,India,Chocolate Chip,2632,13160,5264,7896
+43983,India,Chocolate Chip,1583,7915,3166,4749
+44105,India,Chocolate Chip,1565,7825,3130,4695
+44105,India,Chocolate Chip,1249,6245,2498,3747
+43891,India,Chocolate Chip,2428,12140,4856,7284
+44136,India,Chocolate Chip,700,3500,1400,2100
+43922,India,Chocolate Chip,1614,8070,3228,4842
+44044,India,Chocolate Chip,2559,12795,5118,7677
+43922,India,Chocolate Chip,723,3615,1446,2169
+43983,India,Fortune Cookie,2518,2518,503.6,2014.4
+44013,India,Fortune Cookie,2666,2666,533.2,2132.8
+44044,India,Fortune Cookie,1830,1830,366,1464
+43891,India,Fortune Cookie,1967,1967,393.4,1573.6
+43862,India,Fortune Cookie,488,488,97.6,390.4
+43983,India,Fortune Cookie,708,708,141.6,566.4
+43922,India,Fortune Cookie,3803,3803,760.6,3042.4
+44136,India,Fortune Cookie,2321,2321,464.2,1856.8
+44105,India,Fortune Cookie,2734,2734,546.8,2187.2
+44105,India,Fortune Cookie,1249,1249,249.8,999.2
+43831,India,Fortune Cookie,2228,2228,445.6,1782.4
+43952,India,Fortune Cookie,200,200,40,160
+44075,India,Fortune Cookie,388,388,77.6,310.4
+44166,India,Fortune Cookie,2300,2300,460,1840
+44166,India,Oatmeal Raisin,1916,9580,4215.2,5364.8
+44044,India,Oatmeal Raisin,552,2760,1214.4,1545.6
+43983,India,Oatmeal Raisin,1135,5675,2497,3178
+43952,India,Oatmeal Raisin,1645,8225,3619,4606
+44136,India,Oatmeal Raisin,1118,5590,2459.6,3130.4
+43983,India,Oatmeal Raisin,708,3540,1557.6,1982.4
+44105,India,Oatmeal Raisin,1269,6345,2791.8,3553.2
+44013,India,Oatmeal Raisin,1631,8155,3588.2,4566.8
+43862,India,Oatmeal Raisin,2240,11200,4928,6272
+43922,India,Oatmeal Raisin,3521,17605,7746.2,9858.8
+44075,India,Oatmeal Raisin,707,3535,1555.4,1979.6
+44105,India,Oatmeal Raisin,2734,13670,6014.8,7655.2
+43831,India,Oatmeal Raisin,1659,8295,3649.8,4645.2
+43891,India,Oatmeal Raisin,888,4440,1953.6,2486.4
+43831,India,Snickerdoodle,1619,6476,2428.5,4047.5
+44075,India,Snickerdoodle,1445,5780,2167.5,3612.5
+43922,India,Snickerdoodle,743,2972,1114.5,1857.5
+44105,India,Snickerdoodle,1295,5180,1942.5,3237.5
+44166,India,Snickerdoodle,2852,11408,4278,7130
+43952,India,Snickerdoodle,831,3324,1246.5,2077.5
+43983,India,Snickerdoodle,2844,11376,4266,7110
+44044,India,Snickerdoodle,1884,7536,2826,4710
+43983,India,Snickerdoodle,1094,4376,1641,2735
+44013,India,Snickerdoodle,819,3276,1228.5,2047.5
+43862,India,Snickerdoodle,1937,7748,2905.5,4842.5
+44136,India,Snickerdoodle,2689,10756,4033.5,6722.5
+43891,India,Snickerdoodle,923,3692,1384.5,2307.5
+44105,India,Snickerdoodle,1496,5984,2244,3740
+44166,India,Snickerdoodle,2300,9200,3450,5750
+43862,India,Sugar,2001,6003,2501.25,3501.75
+44166,India,Sugar,1817,5451,2271.25,3179.75
+43891,India,Sugar,1326,3978,1657.5,2320.5
+43922,India,Sugar,944,2832,1180,1652
+44166,India,Sugar,2729,8187,3411.25,4775.75
+44044,India,Sugar,1874,5622,2342.5,3279.5
+43983,India,Sugar,2844,8532,3555,4977
+44166,India,Sugar,1582,4746,1977.5,2768.5
+43831,India,Sugar,3245,9735,4056.25,5678.75
+44075,India,Sugar,2134,6402,2667.5,3734.5
+44136,India,Sugar,2529,7587,3161.25,4425.75
+43952,India,Sugar,2109,6327,2636.25,3690.75
+43983,India,Sugar,1583,4749,1978.75,2770.25
+44105,India,Sugar,1565,4695,1956.25,2738.75
+44105,India,Sugar,1496,4488,1870,2618
+44013,India,Sugar,866,2598,1082.5,1515.5
+44044,India,White Chocolate Macadamia Nut,923,5538,2538.25,2999.75
+44105,India,White Chocolate Macadamia Nut,2009,12054,5524.75,6529.25
+43922,India,White Chocolate Macadamia Nut,3851,23106,10590.25,12515.75
+44166,India,White Chocolate Macadamia Nut,2431,14586,6685.25,7900.75
+43862,India,White Chocolate Macadamia Nut,952,5712,2618,3094
+43952,India,White Chocolate Macadamia Nut,1262,7572,3470.5,4101.5
+43983,India,White Chocolate Macadamia Nut,1135,6810,3121.25,3688.75
+44166,India,White Chocolate Macadamia Nut,1582,9492,4350.5,5141.5
+43891,India,White Chocolate Macadamia Nut,598,3588,1644.5,1943.5
+44013,India,White Chocolate Macadamia Nut,3794,22764,10433.5,12330.5
+44075,India,White Chocolate Macadamia Nut,567,3402,1559.25,1842.75
+44105,India,White Chocolate Macadamia Nut,1269,7614,3489.75,4124.25
+43831,India,White Chocolate Macadamia Nut,384,2304,1056,1248
+44136,India,White Chocolate Macadamia Nut,1808,10848,4972,5876
+43983,India,White Chocolate Macadamia Nut,2632,15792,7238,8554
+43862,Malaysia,Chocolate Chip,974,4870,1948,2922
+44044,Malaysia,Chocolate Chip,883,4415,1766,2649
+44075,Malaysia,Chocolate Chip,2472,12360,4944,7416
+44013,Malaysia,Chocolate Chip,1823,9115,3646,5469
+43983,Malaysia,Chocolate Chip,662,3310,1324,1986
+44166,Malaysia,Chocolate Chip,1084,5420,2168,3252
+44105,Malaysia,Chocolate Chip,2031,10155,4062,6093
+44166,Malaysia,Chocolate Chip,1138,5690,2276,3414
+44105,Malaysia,Chocolate Chip,2689,13445,5378,8067
+43922,Malaysia,Chocolate Chip,1607,8035,3214,4821
+43891,Malaysia,Chocolate Chip,1114,5570,2228,3342
+43983,Malaysia,Chocolate Chip,2460,12300,4920,7380
+44075,Malaysia,Chocolate Chip,2993,14965,5986,8979
+44166,Malaysia,Chocolate Chip,1362,6810,2724,4086
+43831,Malaysia,Chocolate Chip,2565,12825,5130,7695
+43831,Malaysia,Chocolate Chip,2417,12085,4834,7251
+43983,Malaysia,Chocolate Chip,1038,5190,2076,3114
+43952,Malaysia,Chocolate Chip,591,2955,1182,1773
+43891,Malaysia,Chocolate Chip,1122,5610,2244,3366
+44044,Malaysia,Chocolate Chip,1984,9920,3968,5952
+43983,Malaysia,Chocolate Chip,886,4430,1772,2658
+44105,Malaysia,Chocolate Chip,2156,10780,4312,6468
+44105,Malaysia,Chocolate Chip,905,4525,1810,2715
+44136,Malaysia,Chocolate Chip,2150,10750,4300,6450
+44136,Malaysia,Chocolate Chip,1197,5985,2394,3591
+44166,Malaysia,Chocolate Chip,1233,6165,2466,3699
+44013,Malaysia,Chocolate Chip,571,2855,1142,1713
+43862,Malaysia,Chocolate Chip,260,1300,520,780
+43922,Malaysia,Chocolate Chip,2535,12675,5070,7605
+43952,Malaysia,Chocolate Chip,2851,14255,5702,8553
+43983,Malaysia,Fortune Cookie,2470,2470,494,1976
+44044,Malaysia,Fortune Cookie,958,958,191.6,766.4
+43891,Malaysia,Fortune Cookie,2214,2214,442.8,1771.2
+44136,Malaysia,Fortune Cookie,690,690,138,552
+44105,Malaysia,Fortune Cookie,2031,2031,406.2,1624.8
+44166,Malaysia,Fortune Cookie,1138,1138,227.6,910.4
+43922,Malaysia,Fortune Cookie,980,980,196,784
+43831,Malaysia,Fortune Cookie,2340,2340,468,1872
+44166,Malaysia,Fortune Cookie,2157,2157,431.4,1725.6
+44075,Malaysia,Fortune Cookie,2420,2420,484,1936
+43952,Malaysia,Fortune Cookie,2661,2661,532.2,2128.8
+43983,Malaysia,Fortune Cookie,604,604,120.8,483.2
+44013,Malaysia,Fortune Cookie,2255,2255,451,1804
+44105,Malaysia,Fortune Cookie,546,546,109.2,436.8
+43862,Malaysia,Fortune Cookie,1368,1368,273.6,1094.4
+43891,Malaysia,Oatmeal Raisin,1101,5505,2422.2,3082.8
+43862,Malaysia,Oatmeal Raisin,1865,9325,4103,5222
+43922,Malaysia,Oatmeal Raisin,1074,5370,2362.8,3007.2
+44013,Malaysia,Oatmeal Raisin,1683,8415,3702.6,4712.4
+44044,Malaysia,Oatmeal Raisin,1123,5615,2470.6,3144.4
+44075,Malaysia,Oatmeal Raisin,1679,8395,3693.8,4701.2
+43983,Malaysia,Oatmeal Raisin,2460,12300,5412,6888
+44166,Malaysia,Oatmeal Raisin,635,3175,1397,1778
+44136,Malaysia,Oatmeal Raisin,1694,8470,3726.8,4743.2
+43983,Malaysia,Oatmeal Raisin,1038,5190,2283.6,2906.4
+43952,Malaysia,Oatmeal Raisin,2039,10195,4485.8,5709.2
+43831,Malaysia,Oatmeal Raisin,2629,13145,5783.8,7361.2
+44166,Malaysia,Oatmeal Raisin,2157,10785,4745.4,6039.6
+44105,Malaysia,Oatmeal Raisin,410,2050,902,1148
+44105,Malaysia,Oatmeal Raisin,546,2730,1201.2,1528.8
+43983,Malaysia,Snickerdoodle,2470,9880,3705,6175
+43891,Malaysia,Snickerdoodle,1210,4840,1815,3025
+44105,Malaysia,Snickerdoodle,1397,5588,2095.5,3492.5
+44136,Malaysia,Snickerdoodle,2791,11164,4186.5,6977.5
+44075,Malaysia,Snickerdoodle,562,2248,843,1405
+43862,Malaysia,Snickerdoodle,727,2908,1090.5,1817.5
+44044,Malaysia,Snickerdoodle,1540,6160,2310,3850
+44166,Malaysia,Snickerdoodle,1362,5448,2043,3405
+44166,Malaysia,Snickerdoodle,521,2084,781.5,1302.5
+43983,Malaysia,Snickerdoodle,886,3544,1329,2215
+44105,Malaysia,Snickerdoodle,2156,8624,3234,5390
+43922,Malaysia,Snickerdoodle,2579,10316,3868.5,6447.5
+44013,Malaysia,Snickerdoodle,801,3204,1201.5,2002.5
+44105,Malaysia,Sugar,1397,4191,1746.25,2444.75
+43983,Malaysia,Sugar,662,1986,827.5,1158.5
+43922,Malaysia,Sugar,1916,5748,2395,3353
+44044,Malaysia,Sugar,1642,4926,2052.5,2873.5
+44105,Malaysia,Sugar,2689,8067,3361.25,4705.75
+43983,Malaysia,Sugar,1498,4494,1872.5,2621.5
+43862,Malaysia,Sugar,2747,8241,3433.75,4807.25
+44136,Malaysia,Sugar,877,2631,1096.25,1534.75
+44166,Malaysia,Sugar,521,1563,651.25,911.75
+43952,Malaysia,Sugar,341,1023,426.25,596.75
+44013,Malaysia,Sugar,641,1923,801.25,1121.75
+44075,Malaysia,Sugar,432,1296,540,756
+43831,Malaysia,Sugar,554,1662,692.5,969.5
+44166,Malaysia,Sugar,1233,3699,1541.25,2157.75
+43891,Malaysia,Sugar,2903,8709,3628.75,5080.25
+43831,Malaysia,White Chocolate Macadamia Nut,1493,8958,4105.75,4852.25
+43952,Malaysia,White Chocolate Macadamia Nut,362,2172,995.5,1176.5
+44166,Malaysia,White Chocolate Macadamia Nut,1084,6504,2981,3523
+43831,Malaysia,White Chocolate Macadamia Nut,2861,17166,7867.75,9298.25
+43983,Malaysia,White Chocolate Macadamia Nut,1498,8988,4119.5,4868.5
+44136,Malaysia,White Chocolate Macadamia Nut,1333,7998,3665.75,4332.25
+44044,Malaysia,White Chocolate Macadamia Nut,609,3654,1674.75,1979.25
+44166,Malaysia,White Chocolate Macadamia Nut,635,3810,1746.25,2063.75
+43952,Malaysia,White Chocolate Macadamia Nut,245,1470,673.75,796.25
+44075,Malaysia,White Chocolate Macadamia Nut,2110,12660,5802.5,6857.5
+43922,Malaysia,White Chocolate Macadamia Nut,2628,15768,7227,8541
+44013,Malaysia,White Chocolate Macadamia Nut,1395,8370,3836.25,4533.75
+44105,Malaysia,White Chocolate Macadamia Nut,905,5430,2488.75,2941.25
+43983,Malaysia,White Chocolate Macadamia Nut,604,3624,1661,1963
+44105,Malaysia,White Chocolate Macadamia Nut,410,2460,1127.5,1332.5
+43862,Malaysia,White Chocolate Macadamia Nut,1575,9450,4331.25,5118.75
+43891,Malaysia,White Chocolate Macadamia Nut,500,3000,1375,1625
+43709,Malaysia,Chocolate Chip,788,3940,1576,2364
+43739,Malaysia,Chocolate Chip,2145,10725,4290,6435
+43709,Malaysia,Chocolate Chip,1760,8800,3520,5280
+43739,Malaysia,Chocolate Chip,1514,7570,3028,4542
+43770,Malaysia,Chocolate Chip,2763,13815,5526,8289
+43800,Malaysia,Chocolate Chip,1946,9730,3892,5838
+43739,Malaysia,Chocolate Chip,367,1835,734,1101
+43739,Malaysia,Chocolate Chip,1715,8575,3430,5145
+43800,Malaysia,Chocolate Chip,380,1900,760,1140
+43770,Malaysia,Chocolate Chip,2151,10755,4302,6453
+43770,Malaysia,Fortune Cookie,1660,1660,332,1328
+43709,Malaysia,Fortune Cookie,720,720,144,576
+43800,Malaysia,Fortune Cookie,1100,1100,220,880
+43739,Malaysia,Fortune Cookie,1715,1715,343,1372
+43739,Malaysia,Fortune Cookie,1727,1727,345.4,1381.6
+43800,Malaysia,Oatmeal Raisin,1375,6875,3025,3850
+43709,Malaysia,Oatmeal Raisin,947,4735,2083.4,2651.6
+43739,Malaysia,Oatmeal Raisin,344,1720,756.8,963.2
+43739,Malaysia,Oatmeal Raisin,1727,8635,3799.4,4835.6
+43770,Malaysia,Oatmeal Raisin,1870,9350,4114,5236
+43739,Malaysia,Snickerdoodle,494,1976,741,1235
+43709,Malaysia,Snickerdoodle,1834,7336,2751,4585
+43739,Malaysia,Snickerdoodle,367,1468,550.5,917.5
+43770,Malaysia,Snickerdoodle,2706,10824,4059,6765
+43800,Malaysia,Snickerdoodle,2821,11284,4231.5,7052.5
+43739,Malaysia,Sugar,494,1482,617.5,864.5
+43800,Malaysia,Sugar,1940,5820,2425,3395
+43739,Malaysia,Sugar,1514,4542,1892.5,2649.5
+43770,Malaysia,Sugar,1123,3369,1403.75,1965.25
+43709,Malaysia,Sugar,1005,3015,1256.25,1758.75
+43739,Malaysia,White Chocolate Macadamia Nut,2145,12870,5898.75,6971.25
+43800,Malaysia,White Chocolate Macadamia Nut,544,3264,1496,1768
+43709,Malaysia,White Chocolate Macadamia Nut,655,3930,1801.25,2128.75
+43739,Malaysia,White Chocolate Macadamia Nut,344,2064,946,1118
+43770,Malaysia,White Chocolate Macadamia Nut,2605,15630,7163.75,8466.25
+43862,Malaysia,Chocolate Chip,974,4870,1948,2922
+44044,Malaysia,Chocolate Chip,883,4415,1766,2649
+44075,Malaysia,Chocolate Chip,2472,12360,4944,7416
+44013,Malaysia,Chocolate Chip,1823,9115,3646,5469
+43983,Malaysia,Chocolate Chip,662,3310,1324,1986
+44166,Malaysia,Chocolate Chip,1084,5420,2168,3252
+44105,Malaysia,Chocolate Chip,2031,10155,4062,6093
+44166,Malaysia,Chocolate Chip,1138,5690,2276,3414
+44105,Malaysia,Chocolate Chip,2689,13445,5378,8067
+43922,Malaysia,Chocolate Chip,1607,8035,3214,4821
+43891,Malaysia,Chocolate Chip,1114,5570,2228,3342
+43983,Malaysia,Chocolate Chip,2460,12300,4920,7380
+44075,Malaysia,Chocolate Chip,2993,14965,5986,8979
+44166,Malaysia,Chocolate Chip,1362,6810,2724,4086
+43831,Malaysia,Chocolate Chip,2565,12825,5130,7695
+43831,Malaysia,Chocolate Chip,2417,12085,4834,7251
+43983,Malaysia,Chocolate Chip,1038,5190,2076,3114
+43952,Malaysia,Chocolate Chip,591,2955,1182,1773
+43891,Malaysia,Chocolate Chip,1122,5610,2244,3366
+44044,Malaysia,Chocolate Chip,1984,9920,3968,5952
+43983,Malaysia,Chocolate Chip,886,4430,1772,2658
+44105,Malaysia,Chocolate Chip,2156,10780,4312,6468
+44105,Malaysia,Chocolate Chip,905,4525,1810,2715
+44136,Malaysia,Chocolate Chip,2150,10750,4300,6450
+44136,Malaysia,Chocolate Chip,1197,5985,2394,3591
+44166,Malaysia,Chocolate Chip,1233,6165,2466,3699
+44013,Malaysia,Chocolate Chip,571,2855,1142,1713
+43862,Malaysia,Chocolate Chip,260,1300,520,780
+43922,Malaysia,Chocolate Chip,2535,12675,5070,7605
+43952,Malaysia,Chocolate Chip,2851,14255,5702,8553
+43983,Malaysia,Fortune Cookie,2470,2470,494,1976
+44044,Malaysia,Fortune Cookie,958,958,191.6,766.4
+43891,Malaysia,Fortune Cookie,2214,2214,442.8,1771.2
+44136,Malaysia,Fortune Cookie,690,690,138,552
+44105,Malaysia,Fortune Cookie,2031,2031,406.2,1624.8
+44166,Malaysia,Fortune Cookie,1138,1138,227.6,910.4
+43922,Malaysia,Fortune Cookie,980,980,196,784
+43831,Malaysia,Fortune Cookie,2340,2340,468,1872
+44166,Malaysia,Fortune Cookie,2157,2157,431.4,1725.6
+44075,Malaysia,Fortune Cookie,2420,2420,484,1936
+43952,Malaysia,Fortune Cookie,2661,2661,532.2,2128.8
+43983,Malaysia,Fortune Cookie,604,604,120.8,483.2
+44013,Malaysia,Fortune Cookie,2255,2255,451,1804
+44105,Malaysia,Fortune Cookie,546,546,109.2,436.8
+43862,Malaysia,Fortune Cookie,1368,1368,273.6,1094.4
+43891,Malaysia,Oatmeal Raisin,1101,5505,2422.2,3082.8
+43862,Malaysia,Oatmeal Raisin,1865,9325,4103,5222
+43922,Malaysia,Oatmeal Raisin,1074,5370,2362.8,3007.2
+44013,Malaysia,Oatmeal Raisin,1683,8415,3702.6,4712.4
+44044,Malaysia,Oatmeal Raisin,1123,5615,2470.6,3144.4
+44075,Malaysia,Oatmeal Raisin,1679,8395,3693.8,4701.2
+43983,Malaysia,Oatmeal Raisin,2460,12300,5412,6888
+44166,Malaysia,Oatmeal Raisin,635,3175,1397,1778
+44136,Malaysia,Oatmeal Raisin,1694,8470,3726.8,4743.2
+43983,Malaysia,Oatmeal Raisin,1038,5190,2283.6,2906.4
+43952,Malaysia,Oatmeal Raisin,2039,10195,4485.8,5709.2
+43831,Malaysia,Oatmeal Raisin,2629,13145,5783.8,7361.2
+44166,Malaysia,Oatmeal Raisin,2157,10785,4745.4,6039.6
+44105,Malaysia,Oatmeal Raisin,410,2050,902,1148
+44105,Malaysia,Oatmeal Raisin,546,2730,1201.2,1528.8
+43983,Malaysia,Snickerdoodle,2470,9880,3705,6175
+43891,Malaysia,Snickerdoodle,1210,4840,1815,3025
+44105,Malaysia,Snickerdoodle,1397,5588,2095.5,3492.5
+44136,Malaysia,Snickerdoodle,2791,11164,4186.5,6977.5
+44075,Malaysia,Snickerdoodle,562,2248,843,1405
+43862,Malaysia,Snickerdoodle,727,2908,1090.5,1817.5
+44044,Malaysia,Snickerdoodle,1540,6160,2310,3850
+44166,Malaysia,Snickerdoodle,1362,5448,2043,3405
+44166,Malaysia,Snickerdoodle,521,2084,781.5,1302.5
+43983,Malaysia,Snickerdoodle,886,3544,1329,2215
+44105,Malaysia,Snickerdoodle,2156,8624,3234,5390
+43922,Malaysia,Snickerdoodle,2579,10316,3868.5,6447.5
+44013,Malaysia,Snickerdoodle,801,3204,1201.5,2002.5
+44105,Malaysia,Sugar,1397,4191,1746.25,2444.75
+43983,Malaysia,Sugar,662,1986,827.5,1158.5
+43922,Malaysia,Sugar,1916,5748,2395,3353
+44044,Malaysia,Sugar,1642,4926,2052.5,2873.5
+44105,Malaysia,Sugar,2689,8067,3361.25,4705.75
+43983,Malaysia,Sugar,1498,4494,1872.5,2621.5
+43862,Malaysia,Sugar,2747,8241,3433.75,4807.25
+44136,Malaysia,Sugar,877,2631,1096.25,1534.75
+44166,Malaysia,Sugar,521,1563,651.25,911.75
+43952,Malaysia,Sugar,341,1023,426.25,596.75
+44013,Malaysia,Sugar,641,1923,801.25,1121.75
+44075,Malaysia,Sugar,432,1296,540,756
+43831,Malaysia,Sugar,554,1662,692.5,969.5
+44166,Malaysia,Sugar,1233,3699,1541.25,2157.75
+43891,Malaysia,Sugar,2903,8709,3628.75,5080.25
+43831,Malaysia,White Chocolate Macadamia Nut,1493,8958,4105.75,4852.25
+43952,Malaysia,White Chocolate Macadamia Nut,362,2172,995.5,1176.5
+44166,Malaysia,White Chocolate Macadamia Nut,1084,6504,2981,3523
+43831,Malaysia,White Chocolate Macadamia Nut,2861,17166,7867.75,9298.25
+43983,Malaysia,White Chocolate Macadamia Nut,1498,8988,4119.5,4868.5
+44136,Malaysia,White Chocolate Macadamia Nut,1333,7998,3665.75,4332.25
+44044,Malaysia,White Chocolate Macadamia Nut,609,3654,1674.75,1979.25
+44166,Malaysia,White Chocolate Macadamia Nut,635,3810,1746.25,2063.75
+43952,Malaysia,White Chocolate Macadamia Nut,245,1470,673.75,796.25
+44075,Malaysia,White Chocolate Macadamia Nut,2110,12660,5802.5,6857.5
+43922,Malaysia,White Chocolate Macadamia Nut,2628,15768,7227,8541
+44013,Malaysia,White Chocolate Macadamia Nut,1395,8370,3836.25,4533.75
+44105,Malaysia,White Chocolate Macadamia Nut,905,5430,2488.75,2941.25
+43983,Malaysia,White Chocolate Macadamia Nut,604,3624,1661,1963
+44105,Malaysia,White Chocolate Macadamia Nut,410,2460,1127.5,1332.5
+43862,Malaysia,White Chocolate Macadamia Nut,1575,9450,4331.25,5118.75
+43891,Malaysia,White Chocolate Macadamia Nut,500,3000,1375,1625
+43983,Philippines,Chocolate Chip,1006,5030,2012,3018
+44013,Philippines,Chocolate Chip,367,1835,734,1101
+44166,Philippines,Chocolate Chip,1513,7565,3026,4539
+44075,Philippines,Chocolate Chip,747,3735,1494,2241
+43952,Philippines,Chocolate Chip,1728,8640,3456,5184
+43983,Philippines,Chocolate Chip,689,3445,1378,2067
+43983,Philippines,Chocolate Chip,1570,7850,3140,4710
+44166,Philippines,Chocolate Chip,1706,8530,3412,5118
+43891,Philippines,Chocolate Chip,795,3975,1590,2385
+43922,Philippines,Chocolate Chip,1415,7075,2830,4245
+43831,Philippines,Chocolate Chip,1372,6860,2744,4116
+44044,Philippines,Chocolate Chip,1743,8715,3486,5229
+44013,Philippines,Chocolate Chip,3513,17565,7026,10539
+43922,Philippines,Chocolate Chip,1259,6295,2518,3777
+43952,Philippines,Chocolate Chip,1095,5475,2190,3285
+43983,Philippines,Chocolate Chip,1366,6830,2732,4098
+44044,Philippines,Chocolate Chip,1598,7990,3196,4794
+44075,Philippines,Chocolate Chip,1934,9670,3868,5802
+44105,Philippines,Chocolate Chip,360,1800,720,1080
+44105,Philippines,Chocolate Chip,241,1205,482,723
+44136,Philippines,Chocolate Chip,1359,6795,2718,4077
+44166,Philippines,Chocolate Chip,1531,7655,3062,4593
+43831,Philippines,Chocolate Chip,807,4035,1614,2421
+43862,Philippines,Chocolate Chip,2708,13540,5416,8124
+44136,Philippines,Chocolate Chip,357,1785,714,1071
+44166,Philippines,Chocolate Chip,1013,5065,2026,3039
+43862,Philippines,Chocolate Chip,278,1390,556,834
+43891,Philippines,Chocolate Chip,1158,5790,2316,3474
+44105,Philippines,Chocolate Chip,1085,5425,2170,3255
+44105,Philippines,Chocolate Chip,1175,5875,2350,3525
+43891,Philippines,Fortune Cookie,921,921,184.2,736.8
+43983,Philippines,Fortune Cookie,1545,1545,309,1236
+44075,Philippines,Fortune Cookie,2146,2146,429.2,1716.8
+43862,Philippines,Fortune Cookie,1958,1958,391.6,1566.4
+44166,Philippines,Fortune Cookie,1706,1706,341.2,1364.8
+44044,Philippines,Fortune Cookie,1859,1859,371.8,1487.2
+44105,Philippines,Fortune Cookie,2021,2021,404.2,1616.8
+44136,Philippines,Fortune Cookie,2342,2342,468.4,1873.6
+43952,Philippines,Fortune Cookie,1460,1460,292,1168
+44013,Philippines,Fortune Cookie,645,645,129,516
+44166,Philippines,Fortune Cookie,711,711,142.2,568.8
+43831,Philippines,Fortune Cookie,766,766,153.2,612.8
+43922,Philippines,Fortune Cookie,1199,1199,239.8,959.2
+43922,Philippines,Oatmeal Raisin,4220,21100,9284,11816
+44013,Philippines,Oatmeal Raisin,1686,8430,3709.2,4720.8
+43891,Philippines,Oatmeal Raisin,259,1295,569.8,725.2
+43952,Philippines,Oatmeal Raisin,2276,11380,5007.2,6372.8
+44075,Philippines,Oatmeal Raisin,1907,9535,4195.4,5339.6
+43862,Philippines,Oatmeal Raisin,1350,6750,2970,3780
+44166,Philippines,Oatmeal Raisin,1250,6250,2750,3500
+43983,Philippines,Oatmeal Raisin,1366,6830,3005.2,3824.8
+44136,Philippines,Oatmeal Raisin,1520,7600,3344,4256
+44166,Philippines,Oatmeal Raisin,711,3555,1564.2,1990.8
+44044,Philippines,Oatmeal Raisin,2574,12870,5662.8,7207.2
+44105,Philippines,Oatmeal Raisin,472,2360,1038.4,1321.6
+43831,Philippines,Oatmeal Raisin,3165,15825,6963,8862
+43831,Philippines,Snickerdoodle,1321,5284,1981.5,3302.5
+43983,Philippines,Snickerdoodle,888,3552,1332,2220
+44166,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+43922,Philippines,Snickerdoodle,2580,10320,3870,6450
+43983,Philippines,Snickerdoodle,689,2756,1033.5,1722.5
+44105,Philippines,Snickerdoodle,2021,8084,3031.5,5052.5
+43862,Philippines,Snickerdoodle,1116,4464,1674,2790
+43952,Philippines,Snickerdoodle,663,2652,994.5,1657.5
+44075,Philippines,Snickerdoodle,1580,6320,2370,3950
+43891,Philippines,Snickerdoodle,792,3168,1188,1980
+44013,Philippines,Snickerdoodle,2811,11244,4216.5,7027.5
+44166,Philippines,Snickerdoodle,280,1120,420,700
+44136,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+44044,Philippines,Snickerdoodle,2767,11068,4150.5,6917.5
+44105,Philippines,Snickerdoodle,1085,4340,1627.5,2712.5
+43922,Philippines,Sugar,2838,8514,3547.5,4966.5
+43983,Philippines,Sugar,888,2664,1110,1554
+43891,Philippines,Sugar,263,789,328.75,460.25
+44075,Philippines,Sugar,986,2958,1232.5,1725.5
+44105,Philippines,Sugar,2877,8631,3596.25,5034.75
+43983,Philippines,Sugar,1570,4710,1962.5,2747.5
+43831,Philippines,Sugar,2479,7437,3098.75,4338.25
+43983,Philippines,Sugar,2338,7014,2922.5,4091.5
+44044,Philippines,Sugar,422,1266,527.5,738.5
+43862,Philippines,Sugar,2659,7977,3323.75,4653.25
+43952,Philippines,Sugar,880,2640,1100,1540
+44105,Philippines,Sugar,360,1080,450,630
+44166,Philippines,Sugar,1531,4593,1913.75,2679.25
+44166,Philippines,Sugar,280,840,350,490
+44013,Philippines,Sugar,492,1476,615,861
+44105,Philippines,Sugar,1175,3525,1468.75,2056.25
+44136,Philippines,Sugar,552,1656,690,966
+43891,Philippines,White Chocolate Macadamia Nut,2161,12966,5942.75,7023.25
+43983,Philippines,White Chocolate Macadamia Nut,1006,6036,2766.5,3269.5
+43983,Philippines,White Chocolate Macadamia Nut,1545,9270,4248.75,5021.25
+44105,Philippines,White Chocolate Macadamia Nut,2877,17262,7911.75,9350.25
+43862,Philippines,White Chocolate Macadamia Nut,807,4842,2219.25,2622.75
+44166,Philippines,White Chocolate Macadamia Nut,1250,7500,3437.5,4062.5
+43952,Philippines,White Chocolate Macadamia Nut,1530,9180,4207.5,4972.5
+44044,Philippines,White Chocolate Macadamia Nut,1001,6006,2752.75,3253.25
+44075,Philippines,White Chocolate Macadamia Nut,2087,12522,5739.25,6782.75
+43983,Philippines,White Chocolate Macadamia Nut,2338,14028,6429.5,7598.5
+44013,Philippines,White Chocolate Macadamia Nut,1307,7842,3594.25,4247.75
+43831,Philippines,White Chocolate Macadamia Nut,681,4086,1872.75,2213.25
+43922,Philippines,White Chocolate Macadamia Nut,510,3060,1402.5,1657.5
+44105,Philippines,White Chocolate Macadamia Nut,241,1446,662.75,783.25
+44136,Philippines,White Chocolate Macadamia Nut,2665,15990,7328.75,8661.25
+44105,Philippines,White Chocolate Macadamia Nut,472,2832,1298,1534
+44166,Philippines,White Chocolate Macadamia Nut,1013,6078,2785.75,3292.25
+43739,Philippines,Chocolate Chip,766,3830,1532,2298
+43739,Philippines,Chocolate Chip,809,4045,1618,2427
+43739,Philippines,Chocolate Chip,1945,9725,3890,5835
+43800,Philippines,Chocolate Chip,2116,10580,4232,6348
+43709,Philippines,Chocolate Chip,1123,5615,2246,3369
+43800,Philippines,Chocolate Chip,2125,10625,4250,6375
+43709,Philippines,Chocolate Chip,2409,12045,4818,7227
+43770,Philippines,Chocolate Chip,2146,10730,4292,6438
+43770,Philippines,Chocolate Chip,1775,8875,3550,5325
+43739,Philippines,Chocolate Chip,2992,14960,5984,8976
+43709,Philippines,Fortune Cookie,1797,1797,359.4,1437.6
+43739,Philippines,Fortune Cookie,1159,1159,231.8,927.2
+43770,Philippines,Fortune Cookie,2500,2500,500,2000
+43800,Philippines,Fortune Cookie,334,334,66.8,267.2
+43739,Philippines,Fortune Cookie,2992,2992,598.4,2393.6
+43739,Philippines,Oatmeal Raisin,2966,14830,6525.2,8304.8
+43739,Philippines,Oatmeal Raisin,1159,5795,2549.8,3245.2
+43709,Philippines,Oatmeal Raisin,994,4970,2186.8,2783.2
+43770,Philippines,Oatmeal Raisin,970,4850,2134,2716
+43800,Philippines,Oatmeal Raisin,1770,8850,3894,4956
+43739,Philippines,Snickerdoodle,766,3064,1149,1915
+43739,Philippines,Snickerdoodle,214,856,321,535
+43770,Philippines,Snickerdoodle,1016,4064,1524,2540
+43800,Philippines,Snickerdoodle,887,3548,1330.5,2217.5
+43709,Philippines,Snickerdoodle,442,1768,663,1105
+43739,Philippines,Sugar,214,642,267.5,374.5
+43739,Philippines,Sugar,1945,5835,2431.25,3403.75
+43770,Philippines,Sugar,2297,6891,2871.25,4019.75
+43709,Philippines,Sugar,2215,6645,2768.75,3876.25
+43800,Philippines,Sugar,1870,5610,2337.5,3272.5
+43739,Philippines,White Chocolate Macadamia Nut,2966,17796,8156.5,9639.5
+43739,Philippines,White Chocolate Macadamia Nut,809,4854,2224.75,2629.25
+43800,Philippines,White Chocolate Macadamia Nut,588,3528,1617,1911
+43709,Philippines,White Chocolate Macadamia Nut,660,3960,1815,2145
+43770,Philippines,White Chocolate Macadamia Nut,2536,15216,6974,8242
+43983,Philippines,Chocolate Chip,1006,5030,2012,3018
+44013,Philippines,Chocolate Chip,367,1835,734,1101
+44166,Philippines,Chocolate Chip,1513,7565,3026,4539
+44075,Philippines,Chocolate Chip,747,3735,1494,2241
+43952,Philippines,Chocolate Chip,1728,8640,3456,5184
+43983,Philippines,Chocolate Chip,689,3445,1378,2067
+43983,Philippines,Chocolate Chip,1570,7850,3140,4710
+44166,Philippines,Chocolate Chip,1706,8530,3412,5118
+43891,Philippines,Chocolate Chip,795,3975,1590,2385
+43922,Philippines,Chocolate Chip,1415,7075,2830,4245
+43831,Philippines,Chocolate Chip,1372,6860,2744,4116
+44044,Philippines,Chocolate Chip,1743,8715,3486,5229
+44013,Philippines,Chocolate Chip,3513,17565,7026,10539
+43922,Philippines,Chocolate Chip,1259,6295,2518,3777
+43952,Philippines,Chocolate Chip,1095,5475,2190,3285
+43983,Philippines,Chocolate Chip,1366,6830,2732,4098
+44044,Philippines,Chocolate Chip,1598,7990,3196,4794
+44075,Philippines,Chocolate Chip,1934,9670,3868,5802
+44105,Philippines,Chocolate Chip,360,1800,720,1080
+44105,Philippines,Chocolate Chip,241,1205,482,723
+44136,Philippines,Chocolate Chip,1359,6795,2718,4077
+44166,Philippines,Chocolate Chip,1531,7655,3062,4593
+43831,Philippines,Chocolate Chip,807,4035,1614,2421
+43862,Philippines,Chocolate Chip,2708,13540,5416,8124
+44136,Philippines,Chocolate Chip,357,1785,714,1071
+44166,Philippines,Chocolate Chip,1013,5065,2026,3039
+43862,Philippines,Chocolate Chip,278,1390,556,834
+43891,Philippines,Chocolate Chip,1158,5790,2316,3474
+44105,Philippines,Chocolate Chip,1085,5425,2170,3255
+44105,Philippines,Chocolate Chip,1175,5875,2350,3525
+43891,Philippines,Fortune Cookie,921,921,184.2,736.8
+43983,Philippines,Fortune Cookie,1545,1545,309,1236
+44075,Philippines,Fortune Cookie,2146,2146,429.2,1716.8
+43862,Philippines,Fortune Cookie,1958,1958,391.6,1566.4
+44166,Philippines,Fortune Cookie,1706,1706,341.2,1364.8
+44044,Philippines,Fortune Cookie,1859,1859,371.8,1487.2
+44105,Philippines,Fortune Cookie,2021,2021,404.2,1616.8
+44136,Philippines,Fortune Cookie,2342,2342,468.4,1873.6
+43952,Philippines,Fortune Cookie,1460,1460,292,1168
+44013,Philippines,Fortune Cookie,645,645,129,516
+44166,Philippines,Fortune Cookie,711,711,142.2,568.8
+43831,Philippines,Fortune Cookie,766,766,153.2,612.8
+43922,Philippines,Fortune Cookie,1199,1199,239.8,959.2
+43922,Philippines,Oatmeal Raisin,4220,21100,9284,11816
+44013,Philippines,Oatmeal Raisin,1686,8430,3709.2,4720.8
+43891,Philippines,Oatmeal Raisin,259,1295,569.8,725.2
+43952,Philippines,Oatmeal Raisin,2276,11380,5007.2,6372.8
+44075,Philippines,Oatmeal Raisin,1907,9535,4195.4,5339.6
+43862,Philippines,Oatmeal Raisin,1350,6750,2970,3780
+44166,Philippines,Oatmeal Raisin,1250,6250,2750,3500
+43983,Philippines,Oatmeal Raisin,1366,6830,3005.2,3824.8
+44136,Philippines,Oatmeal Raisin,1520,7600,3344,4256
+44166,Philippines,Oatmeal Raisin,711,3555,1564.2,1990.8
+44044,Philippines,Oatmeal Raisin,2574,12870,5662.8,7207.2
+44105,Philippines,Oatmeal Raisin,472,2360,1038.4,1321.6
+43831,Philippines,Oatmeal Raisin,3165,15825,6963,8862
+43831,Philippines,Snickerdoodle,1321,5284,1981.5,3302.5
+43983,Philippines,Snickerdoodle,888,3552,1332,2220
+44166,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+43922,Philippines,Snickerdoodle,2580,10320,3870,6450
+43983,Philippines,Snickerdoodle,689,2756,1033.5,1722.5
+44105,Philippines,Snickerdoodle,2021,8084,3031.5,5052.5
+43862,Philippines,Snickerdoodle,1116,4464,1674,2790
+43952,Philippines,Snickerdoodle,663,2652,994.5,1657.5
+44075,Philippines,Snickerdoodle,1580,6320,2370,3950
+43891,Philippines,Snickerdoodle,792,3168,1188,1980
+44013,Philippines,Snickerdoodle,2811,11244,4216.5,7027.5
+44166,Philippines,Snickerdoodle,280,1120,420,700
+44136,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+44044,Philippines,Snickerdoodle,2767,11068,4150.5,6917.5
+44105,Philippines,Snickerdoodle,1085,4340,1627.5,2712.5
+43922,Philippines,Sugar,2838,8514,3547.5,4966.5
+43983,Philippines,Sugar,888,2664,1110,1554
+43891,Philippines,Sugar,263,789,328.75,460.25
+44075,Philippines,Sugar,986,2958,1232.5,1725.5
+44105,Philippines,Sugar,2877,8631,3596.25,5034.75
+43983,Philippines,Sugar,1570,4710,1962.5,2747.5
+43831,Philippines,Sugar,2479,7437,3098.75,4338.25
+43983,Philippines,Sugar,2338,7014,2922.5,4091.5
+44044,Philippines,Sugar,422,1266,527.5,738.5
+43862,Philippines,Sugar,2659,7977,3323.75,4653.25
+43952,Philippines,Sugar,880,2640,1100,1540
+44105,Philippines,Sugar,360,1080,450,630
+44166,Philippines,Sugar,1531,4593,1913.75,2679.25
+44166,Philippines,Sugar,280,840,350,490
+44013,Philippines,Sugar,492,1476,615,861
+44105,Philippines,Sugar,1175,3525,1468.75,2056.25
+44136,Philippines,Sugar,552,1656,690,966
+43891,Philippines,White Chocolate Macadamia Nut,2161,12966,5942.75,7023.25
+43983,Philippines,White Chocolate Macadamia Nut,1006,6036,2766.5,3269.5
+43983,Philippines,White Chocolate Macadamia Nut,1545,9270,4248.75,5021.25
+44105,Philippines,White Chocolate Macadamia Nut,2877,17262,7911.75,9350.25
+43862,Philippines,White Chocolate Macadamia Nut,807,4842,2219.25,2622.75
+44166,Philippines,White Chocolate Macadamia Nut,1250,7500,3437.5,4062.5
+43952,Philippines,White Chocolate Macadamia Nut,1530,9180,4207.5,4972.5
+44044,Philippines,White Chocolate Macadamia Nut,1001,6006,2752.75,3253.25
+44075,Philippines,White Chocolate Macadamia Nut,2087,12522,5739.25,6782.75
+43983,Philippines,White Chocolate Macadamia Nut,2338,14028,6429.5,7598.5
+44013,Philippines,White Chocolate Macadamia Nut,1307,7842,3594.25,4247.75
+43831,Philippines,White Chocolate Macadamia Nut,681,4086,1872.75,2213.25
+43922,Philippines,White Chocolate Macadamia Nut,510,3060,1402.5,1657.5
+44105,Philippines,White Chocolate Macadamia Nut,241,1446,662.75,783.25
+44136,Philippines,White Chocolate Macadamia Nut,2665,15990,7328.75,8661.25
+44105,Philippines,White Chocolate Macadamia Nut,472,2832,1298,1534
+44166,Philippines,White Chocolate Macadamia Nut,1013,6078,2785.75,3292.25
+43831,United Kingdom,Chocolate Chip,3945,19725,7890,11835
+43862,United Kingdom,Chocolate Chip,2296,11480,4592,6888
+43952,United Kingdom,Chocolate Chip,1030,5150,2060,3090
+43983,United Kingdom,Chocolate Chip,787,3935,1574,2361
+44166,United Kingdom,Chocolate Chip,2155,10775,4310,6465
+43952,United Kingdom,Chocolate Chip,918,4590,1836,2754
+44166,United Kingdom,Chocolate Chip,1055,5275,2110,3165
+43831,United Kingdom,Chocolate Chip,2435,12175,4870,7305
+43983,United Kingdom,Chocolate Chip,1901,9505,3802,5703
+44166,United Kingdom,Chocolate Chip,1287,6435,2574,3861
+44013,United Kingdom,Chocolate Chip,2988,14940,5976,8964
+43862,United Kingdom,Chocolate Chip,1303,6515,2606,3909
+43891,United Kingdom,Chocolate Chip,2385,11925,4770,7155
+44075,United Kingdom,Chocolate Chip,2620,13100,5240,7860
+43922,United Kingdom,Chocolate Chip,3801,19005,7602,11403
+43983,United Kingdom,Chocolate Chip,1496,7480,2992,4488
+43983,United Kingdom,Chocolate Chip,448,2240,896,1344
+44044,United Kingdom,Chocolate Chip,2101,10505,4202,6303
+44075,United Kingdom,Chocolate Chip,1535,7675,3070,4605
+44105,United Kingdom,Chocolate Chip,1227,6135,2454,3681
+44136,United Kingdom,Chocolate Chip,1324,6620,2648,3972
+43891,United Kingdom,Chocolate Chip,1954,9770,3908,5862
+43922,United Kingdom,Chocolate Chip,2532,12660,5064,7596
+44013,United Kingdom,Chocolate Chip,2426,12130,4852,7278
+44105,United Kingdom,Chocolate Chip,2441,12205,4882,7323
+44136,United Kingdom,Chocolate Chip,1594,7970,3188,4782
+44044,United Kingdom,Chocolate Chip,2696,13480,5392,8088
+44105,United Kingdom,Chocolate Chip,1393,6965,2786,4179
+44105,United Kingdom,Chocolate Chip,1731,8655,3462,5193
+44166,United Kingdom,Chocolate Chip,293,1465,586,879
+43983,United Kingdom,Fortune Cookie,1899,1899,379.8,1519.2
+44013,United Kingdom,Fortune Cookie,1376,1376,275.2,1100.8
+43983,United Kingdom,Fortune Cookie,1901,1901,380.2,1520.8
+44075,United Kingdom,Fortune Cookie,544,544,108.8,435.2
+44166,United Kingdom,Fortune Cookie,1287,1287,257.4,1029.6
+43831,United Kingdom,Fortune Cookie,1385,1385,277,1108
+44136,United Kingdom,Fortune Cookie,2342,2342,468.4,1873.6
+44105,United Kingdom,Fortune Cookie,1976,1976,395.2,1580.8
+44105,United Kingdom,Fortune Cookie,2181,2181,436.2,1744.8
+43891,United Kingdom,Fortune Cookie,2501,2501,500.2,2000.8
+44044,United Kingdom,Fortune Cookie,1562,1562,312.4,1249.6
+43952,United Kingdom,Fortune Cookie,1666,1666,333.2,1332.8
+44166,United Kingdom,Fortune Cookie,2072,2072,414.4,1657.6
+43922,United Kingdom,Fortune Cookie,1773,1773,354.6,1418.4
+43862,United Kingdom,Fortune Cookie,293,293,58.6,234.4
+43862,United Kingdom,Oatmeal Raisin,2750,13750,6050,7700
+43983,United Kingdom,Oatmeal Raisin,1899,9495,4177.8,5317.2
+44136,United Kingdom,Oatmeal Raisin,941,4705,2070.2,2634.8
+43831,United Kingdom,Oatmeal Raisin,1988,9940,4373.6,5566.4
+44075,United Kingdom,Oatmeal Raisin,2876,14380,6327.2,8052.8
+44166,United Kingdom,Oatmeal Raisin,2072,10360,4558.4,5801.6
+44166,United Kingdom,Oatmeal Raisin,853,4265,1876.6,2388.4
+43952,United Kingdom,Oatmeal Raisin,1433,7165,3152.6,4012.4
+44013,United Kingdom,Oatmeal Raisin,3422,17110,7528.4,9581.6
+43983,United Kingdom,Oatmeal Raisin,1190,5950,2618,3332
+44105,United Kingdom,Oatmeal Raisin,1393,6965,3064.6,3900.4
+44044,United Kingdom,Oatmeal Raisin,2475,12375,5445,6930
+44105,United Kingdom,Oatmeal Raisin,1731,8655,3808.2,4846.8
+43891,United Kingdom,Oatmeal Raisin,2475,12375,5445,6930
+43983,United Kingdom,Snickerdoodle,2178,8712,3267,5445
+44075,United Kingdom,Snickerdoodle,2671,10684,4006.5,6677.5
+44166,United Kingdom,Snickerdoodle,2155,8620,3232.5,5387.5
+43922,United Kingdom,Snickerdoodle,4244,16976,6366,10610
+43862,United Kingdom,Snickerdoodle,1865,7460,2797.5,4662.5
+43952,United Kingdom,Snickerdoodle,1563,6252,2344.5,3907.5
+44166,United Kingdom,Snickerdoodle,2487,9948,3730.5,6217.5
+43983,United Kingdom,Snickerdoodle,448,1792,672,1120
+44105,United Kingdom,Snickerdoodle,2181,8724,3271.5,5452.5
+44136,United Kingdom,Snickerdoodle,490,1960,735,1225
+44105,United Kingdom,Snickerdoodle,2441,9764,3661.5,6102.5
+43831,United Kingdom,Snickerdoodle,2522,10088,3783,6305
+43891,United Kingdom,Snickerdoodle,1790,7160,2685,4475
+44044,United Kingdom,Snickerdoodle,1174,4696,1761,2935
+43983,United Kingdom,Sugar,2178,6534,2722.5,3811.5
+44075,United Kingdom,Sugar,2151,6453,2688.75,3764.25
+43983,United Kingdom,Sugar,787,2361,983.75,1377.25
+44136,United Kingdom,Sugar,1744,5232,2180,3052
+43952,United Kingdom,Sugar,866,2598,1082.5,1515.5
+44105,United Kingdom,Sugar,2177,6531,2721.25,3809.75
+44166,United Kingdom,Sugar,2487,7461,3108.75,4352.25
+43922,United Kingdom,Sugar,1739,5217,2173.75,3043.25
+43862,United Kingdom,Sugar,959,2877,1198.75,1678.25
+43922,United Kingdom,Sugar,575,1725,718.75,1006.25
+44044,United Kingdom,Sugar,381,1143,476.25,666.75
+44105,United Kingdom,Sugar,1227,3681,1533.75,2147.25
+43831,United Kingdom,Sugar,1734,5202,2167.5,3034.5
+44013,United Kingdom,Sugar,3875,11625,4843.75,6781.25
+43891,United Kingdom,Sugar,1491,4473,1863.75,2609.25
+44166,United Kingdom,Sugar,293,879,366.25,512.75
+43862,United Kingdom,White Chocolate Macadamia Nut,1804,10824,4961,5863
+44136,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+43922,United Kingdom,White Chocolate Macadamia Nut,3864,23184,10626,12558
+44166,United Kingdom,White Chocolate Macadamia Nut,1055,6330,2901.25,3428.75
+44105,United Kingdom,White Chocolate Macadamia Nut,2177,13062,5986.75,7075.25
+44044,United Kingdom,White Chocolate Macadamia Nut,1579,9474,4342.25,5131.75
+43983,United Kingdom,White Chocolate Macadamia Nut,1496,8976,4114,4862
+44013,United Kingdom,White Chocolate Macadamia Nut,1659,9954,4562.25,5391.75
+44105,United Kingdom,White Chocolate Macadamia Nut,1976,11856,5434,6422
+43891,United Kingdom,White Chocolate Macadamia Nut,1967,11802,5409.25,6392.75
+44013,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+44166,United Kingdom,White Chocolate Macadamia Nut,853,5118,2345.75,2772.25
+43831,United Kingdom,White Chocolate Macadamia Nut,3998,23988,10994.5,12993.5
+43983,United Kingdom,White Chocolate Macadamia Nut,1190,7140,3272.5,3867.5
+43952,United Kingdom,White Chocolate Macadamia Nut,2826,16956,7771.5,9184.5
+44075,United Kingdom,White Chocolate Macadamia Nut,663,3978,1823.25,2154.75
+43709,United Kingdom,Chocolate Chip,549,2745,1098,1647
+43770,United Kingdom,Chocolate Chip,1785,8925,3570,5355
+43800,United Kingdom,Chocolate Chip,2261,11305,4522,6783
+43739,United Kingdom,Chocolate Chip,704,3520,1408,2112
+43800,United Kingdom,Chocolate Chip,2136,10680,4272,6408
+43739,United Kingdom,Chocolate Chip,1757,8785,3514,5271
+43709,United Kingdom,Chocolate Chip,1031,5155,2062,3093
+43739,United Kingdom,Chocolate Chip,2167,10835,4334,6501
+43739,United Kingdom,Chocolate Chip,1198,5990,2396,3594
+43770,United Kingdom,Chocolate Chip,1922,9610,3844,5766
+43739,United Kingdom,Fortune Cookie,1403,1403,280.6,1122.4
+43739,United Kingdom,Fortune Cookie,1757,1757,351.4,1405.6
+43709,United Kingdom,Fortune Cookie,322,322,64.4,257.6
+43770,United Kingdom,Fortune Cookie,1857,1857,371.4,1485.6
+43800,United Kingdom,Fortune Cookie,1186,1186,237.2,948.8
+43770,United Kingdom,Oatmeal Raisin,321,1605,706.2,898.8
+43739,United Kingdom,Oatmeal Raisin,1403,7015,3086.6,3928.4
+43739,United Kingdom,Oatmeal Raisin,2076,10380,4567.2,5812.8
+43800,United Kingdom,Oatmeal Raisin,306,1530,673.2,856.8
+43770,United Kingdom,Snickerdoodle,2145,8580,3217.5,5362.5
+43800,United Kingdom,Snickerdoodle,1482,5928,2223,3705
+43739,United Kingdom,Snickerdoodle,1198,4792,1797,2995
+43709,United Kingdom,Snickerdoodle,1023,4092,1534.5,2557.5
+43709,United Kingdom,Sugar,1527,4581,1908.75,2672.25
+43739,United Kingdom,Sugar,1221,3663,1526.25,2136.75
+43709,United Kingdom,Sugar,2234,6702,2792.5,3909.5
+43770,United Kingdom,Sugar,2682,8046,3352.5,4693.5
+43739,United Kingdom,Sugar,2167,6501,2708.75,3792.25
+43800,United Kingdom,Sugar,1281,3843,1601.25,2241.75
+43739,United Kingdom,White Chocolate Macadamia Nut,704,4224,1936,2288
+43800,United Kingdom,White Chocolate Macadamia Nut,1033,6198,2840.75,3357.25
+43739,United Kingdom,White Chocolate Macadamia Nut,1221,7326,3357.75,3968.25
+43739,United Kingdom,White Chocolate Macadamia Nut,2076,12456,5709,6747
+43770,United Kingdom,White Chocolate Macadamia Nut,386,2316,1061.5,1254.5
+43709,United Kingdom,White Chocolate Macadamia Nut,2805,16830,7713.75,9116.25
+43831,United Kingdom,Chocolate Chip,3945,19725,7890,11835
+43862,United Kingdom,Chocolate Chip,2296,11480,4592,6888
+43952,United Kingdom,Chocolate Chip,1030,5150,2060,3090
+43983,United Kingdom,Chocolate Chip,787,3935,1574,2361
+44166,United Kingdom,Chocolate Chip,2155,10775,4310,6465
+43952,United Kingdom,Chocolate Chip,918,4590,1836,2754
+44166,United Kingdom,Chocolate Chip,1055,5275,2110,3165
+43831,United Kingdom,Chocolate Chip,2435,12175,4870,7305
+43983,United Kingdom,Chocolate Chip,1901,9505,3802,5703
+44166,United Kingdom,Chocolate Chip,1287,6435,2574,3861
+44013,United Kingdom,Chocolate Chip,2988,14940,5976,8964
+43862,United Kingdom,Chocolate Chip,1303,6515,2606,3909
+43891,United Kingdom,Chocolate Chip,2385,11925,4770,7155
+44075,United Kingdom,Chocolate Chip,2620,13100,5240,7860
+43922,United Kingdom,Chocolate Chip,3801,19005,7602,11403
+43983,United Kingdom,Chocolate Chip,1496,7480,2992,4488
+43983,United Kingdom,Chocolate Chip,448,2240,896,1344
+44044,United Kingdom,Chocolate Chip,2101,10505,4202,6303
+44075,United Kingdom,Chocolate Chip,1535,7675,3070,4605
+44105,United Kingdom,Chocolate Chip,1227,6135,2454,3681
+44136,United Kingdom,Chocolate Chip,1324,6620,2648,3972
+43891,United Kingdom,Chocolate Chip,1954,9770,3908,5862
+43922,United Kingdom,Chocolate Chip,2532,12660,5064,7596
+44013,United Kingdom,Chocolate Chip,2426,12130,4852,7278
+44105,United Kingdom,Chocolate Chip,2441,12205,4882,7323
+44136,United Kingdom,Chocolate Chip,1594,7970,3188,4782
+44044,United Kingdom,Chocolate Chip,2696,13480,5392,8088
+44105,United Kingdom,Chocolate Chip,1393,6965,2786,4179
+44105,United Kingdom,Chocolate Chip,1731,8655,3462,5193
+44166,United Kingdom,Chocolate Chip,293,1465,586,879
+43983,United Kingdom,Fortune Cookie,1899,1899,379.8,1519.2
+44013,United Kingdom,Fortune Cookie,1376,1376,275.2,1100.8
+43983,United Kingdom,Fortune Cookie,1901,1901,380.2,1520.8
+44075,United Kingdom,Fortune Cookie,544,544,108.8,435.2
+44166,United Kingdom,Fortune Cookie,1287,1287,257.4,1029.6
+43831,United Kingdom,Fortune Cookie,1385,1385,277,1108
+44136,United Kingdom,Fortune Cookie,2342,2342,468.4,1873.6
+44105,United Kingdom,Fortune Cookie,1976,1976,395.2,1580.8
+44105,United Kingdom,Fortune Cookie,2181,2181,436.2,1744.8
+43891,United Kingdom,Fortune Cookie,2501,2501,500.2,2000.8
+44044,United Kingdom,Fortune Cookie,1562,1562,312.4,1249.6
+43952,United Kingdom,Fortune Cookie,1666,1666,333.2,1332.8
+44166,United Kingdom,Fortune Cookie,2072,2072,414.4,1657.6
+43922,United Kingdom,Fortune Cookie,1773,1773,354.6,1418.4
+43862,United Kingdom,Fortune Cookie,293,293,58.6,234.4
+43862,United Kingdom,Oatmeal Raisin,2750,13750,6050,7700
+43983,United Kingdom,Oatmeal Raisin,1899,9495,4177.8,5317.2
+44136,United Kingdom,Oatmeal Raisin,941,4705,2070.2,2634.8
+43831,United Kingdom,Oatmeal Raisin,1988,9940,4373.6,5566.4
+44075,United Kingdom,Oatmeal Raisin,2876,14380,6327.2,8052.8
+44166,United Kingdom,Oatmeal Raisin,2072,10360,4558.4,5801.6
+44166,United Kingdom,Oatmeal Raisin,853,4265,1876.6,2388.4
+43952,United Kingdom,Oatmeal Raisin,1433,7165,3152.6,4012.4
+44013,United Kingdom,Oatmeal Raisin,3422,17110,7528.4,9581.6
+43983,United Kingdom,Oatmeal Raisin,1190,5950,2618,3332
+44105,United Kingdom,Oatmeal Raisin,1393,6965,3064.6,3900.4
+44044,United Kingdom,Oatmeal Raisin,2475,12375,5445,6930
+44105,United Kingdom,Oatmeal Raisin,1731,8655,3808.2,4846.8
+43891,United Kingdom,Oatmeal Raisin,2475,12375,5445,6930
+43983,United Kingdom,Snickerdoodle,2178,8712,3267,5445
+44075,United Kingdom,Snickerdoodle,2671,10684,4006.5,6677.5
+44166,United Kingdom,Snickerdoodle,2155,8620,3232.5,5387.5
+43922,United Kingdom,Snickerdoodle,4244,16976,6366,10610
+43862,United Kingdom,Snickerdoodle,1865,7460,2797.5,4662.5
+43952,United Kingdom,Snickerdoodle,1563,6252,2344.5,3907.5
+44166,United Kingdom,Snickerdoodle,2487,9948,3730.5,6217.5
+43983,United Kingdom,Snickerdoodle,448,1792,672,1120
+44105,United Kingdom,Snickerdoodle,2181,8724,3271.5,5452.5
+44136,United Kingdom,Snickerdoodle,490,1960,735,1225
+44105,United Kingdom,Snickerdoodle,2441,9764,3661.5,6102.5
+43831,United Kingdom,Snickerdoodle,2522,10088,3783,6305
+43891,United Kingdom,Snickerdoodle,1790,7160,2685,4475
+44044,United Kingdom,Snickerdoodle,1174,4696,1761,2935
+43983,United Kingdom,Sugar,2178,6534,2722.5,3811.5
+44075,United Kingdom,Sugar,2151,6453,2688.75,3764.25
+43983,United Kingdom,Sugar,787,2361,983.75,1377.25
+44136,United Kingdom,Sugar,1744,5232,2180,3052
+43952,United Kingdom,Sugar,866,2598,1082.5,1515.5
+44105,United Kingdom,Sugar,2177,6531,2721.25,3809.75
+44166,United Kingdom,Sugar,2487,7461,3108.75,4352.25
+43922,United Kingdom,Sugar,1739,5217,2173.75,3043.25
+43862,United Kingdom,Sugar,959,2877,1198.75,1678.25
+43922,United Kingdom,Sugar,575,1725,718.75,1006.25
+44044,United Kingdom,Sugar,381,1143,476.25,666.75
+44105,United Kingdom,Sugar,1227,3681,1533.75,2147.25
+43831,United Kingdom,Sugar,1734,5202,2167.5,3034.5
+44013,United Kingdom,Sugar,3875,11625,4843.75,6781.25
+43891,United Kingdom,Sugar,1491,4473,1863.75,2609.25
+44166,United Kingdom,Sugar,293,879,366.25,512.75
+43862,United Kingdom,White Chocolate Macadamia Nut,1804,10824,4961,5863
+44136,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+43922,United Kingdom,White Chocolate Macadamia Nut,3864,23184,10626,12558
+44166,United Kingdom,White Chocolate Macadamia Nut,1055,6330,2901.25,3428.75
+44105,United Kingdom,White Chocolate Macadamia Nut,2177,13062,5986.75,7075.25
+44044,United Kingdom,White Chocolate Macadamia Nut,1579,9474,4342.25,5131.75
+43983,United Kingdom,White Chocolate Macadamia Nut,1496,8976,4114,4862
+44013,United Kingdom,White Chocolate Macadamia Nut,1659,9954,4562.25,5391.75
+44105,United Kingdom,White Chocolate Macadamia Nut,1976,11856,5434,6422
+43891,United Kingdom,White Chocolate Macadamia Nut,1967,11802,5409.25,6392.75
+44013,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+44166,United Kingdom,White Chocolate Macadamia Nut,853,5118,2345.75,2772.25
+43831,United Kingdom,White Chocolate Macadamia Nut,3998,23988,10994.5,12993.5
+43983,United Kingdom,White Chocolate Macadamia Nut,1190,7140,3272.5,3867.5
+43952,United Kingdom,White Chocolate Macadamia Nut,2826,16956,7771.5,9184.5
+44075,United Kingdom,White Chocolate Macadamia Nut,663,3978,1823.25,2154.75
+44105,United States,Chocolate Chip,1143,5715,2286,3429
+43862,United States,Chocolate Chip,1514,7570,3028,4542
+43922,United States,Chocolate Chip,4493,22465,8986,13479
+43983,United States,Chocolate Chip,727,3635,1454,2181
+44136,United States,Chocolate Chip,2905,14525,5810,8715
+43983,United States,Chocolate Chip,1142,5710,2284,3426
+44013,United States,Chocolate Chip,1370,6850,2740,4110
+43952,United States,Chocolate Chip,2918,14590,5836,8754
+44013,United States,Chocolate Chip,3450,17250,6900,10350
+44075,United States,Chocolate Chip,1056,5280,2112,3168
+44166,United States,Chocolate Chip,274,1370,548,822
+43891,United States,Chocolate Chip,2992,14960,5984,8976
+43952,United States,Chocolate Chip,2327,11635,4654,6981
+43983,United States,Chocolate Chip,991,4955,1982,2973
+43983,United States,Chocolate Chip,602,3010,1204,1806
+44105,United States,Chocolate Chip,861,4305,1722,2583
+44166,United States,Chocolate Chip,2663,13315,5326,7989
+44044,United States,Chocolate Chip,2198,10990,4396,6594
+44105,United States,Chocolate Chip,1153,5765,2306,3459
+44044,United States,Chocolate Chip,678,3390,1356,2034
+43922,United States,Chocolate Chip,3675,18375,7350,11025
+44166,United States,Chocolate Chip,2797,13985,5594,8391
+43891,United States,Chocolate Chip,973,4865,1946,2919
+43831,United States,Chocolate Chip,3495,17475,6990,10485
+43831,United States,Chocolate Chip,1439,7195,2878,4317
+43862,United States,Chocolate Chip,2641,13205,5282,7923
+44075,United States,Chocolate Chip,1767,8835,3534,5301
+44105,United States,Chocolate Chip,2914,14570,5828,8742
+44136,United States,Chocolate Chip,1177,5885,2354,3531
+44166,United States,Chocolate Chip,914,4570,1828,2742
+44166,United States,Fortune Cookie,615,615,123,492
+43922,United States,Fortune Cookie,2301,2301,460.2,1840.8
+43983,United States,Fortune Cookie,1142,1142,228.4,913.6
+44105,United States,Fortune Cookie,1566,1566,313.2,1252.8
+44013,United States,Fortune Cookie,3627,3627,725.4,2901.6
+44136,United States,Fortune Cookie,2723,2723,544.6,2178.4
+43983,United States,Fortune Cookie,1282,1282,256.4,1025.6
+44166,United States,Fortune Cookie,2797,2797,559.4,2237.6
+44075,United States,Fortune Cookie,2328,2328,465.6,1862.4
+43952,United States,Fortune Cookie,2313,2313,462.6,1850.4
+43891,United States,Fortune Cookie,677,677,135.4,541.6
+43831,United States,Fortune Cookie,983,983,196.6,786.4
+43862,United States,Fortune Cookie,1298,1298,259.6,1038.4
+43922,United States,Oatmeal Raisin,1953,9765,4296.6,5468.4
+44044,United States,Oatmeal Raisin,2141,10705,4710.2,5994.8
+44105,United States,Oatmeal Raisin,1143,5715,2514.6,3200.4
+44166,United States,Oatmeal Raisin,615,3075,1353,1722
+44136,United States,Oatmeal Raisin,1236,6180,2719.2,3460.8
+44166,United States,Oatmeal Raisin,1372,6860,3018.4,3841.6
+43983,United States,Oatmeal Raisin,1282,6410,2820.4,3589.6
+43983,United States,Oatmeal Raisin,2907,14535,6395.4,8139.6
+44075,United States,Oatmeal Raisin,2071,10355,4556.2,5798.8
+43831,United States,Oatmeal Raisin,579,2895,1273.8,1621.2
+43891,United States,Oatmeal Raisin,2993,14965,6584.6,8380.4
+44013,United States,Oatmeal Raisin,3200,16000,7040,8960
+43862,United States,Oatmeal Raisin,270,1350,594,756
+43952,United States,Oatmeal Raisin,2844,14220,6256.8,7963.2
+44105,United States,Oatmeal Raisin,2914,14570,6410.8,8159.2
+43862,United States,Snickerdoodle,1858,7432,2787,4645
+44013,United States,Snickerdoodle,2529,10116,3793.5,6322.5
+44075,United States,Snickerdoodle,1947,7788,2920.5,4867.5
+44166,United States,Snickerdoodle,274,1096,411,685
+43983,United States,Snickerdoodle,991,3964,1486.5,2477.5
+44166,United States,Snickerdoodle,570,2280,855,1425
+43831,United States,Snickerdoodle,1118,4472,1677,2795
+44136,United States,Snickerdoodle,2030,8120,3045,5075
+43891,United States,Snickerdoodle,1761,7044,2641.5,4402.5
+43922,United States,Snickerdoodle,3446,13784,5169,8615
+43983,United States,Snickerdoodle,2567,10268,3850.5,6417.5
+43952,United States,Snickerdoodle,1743,6972,2614.5,4357.5
+44105,United States,Snickerdoodle,1010,4040,1515,2525
+43983,United States,Sugar,727,2181,908.75,1272.25
+43862,United States,Sugar,2844,8532,3555,4977
+44166,United States,Sugar,2663,7989,3328.75,4660.25
+44166,United States,Sugar,570,1710,712.5,997.5
+44105,United States,Sugar,1153,3459,1441.25,2017.75
+44013,United States,Sugar,437,1311,546.25,764.75
+43831,United States,Sugar,1956,5868,2445,3423
+43922,United States,Sugar,1352,4056,1690,2366
+44075,United States,Sugar,1867,5601,2333.75,3267.25
+44044,United States,Sugar,2807,8421,3508.75,4912.25
+43891,United States,Sugar,1579,4737,1973.75,2763.25
+44105,United States,Sugar,986,2958,1232.5,1725.5
+44136,United States,Sugar,2387,7161,2983.75,4177.25
+43983,United States,Sugar,2567,7701,3208.75,4492.25
+44044,United States,Sugar,2541,7623,3176.25,4446.75
+44105,United States,Sugar,1010,3030,1262.5,1767.5
+43952,United States,Sugar,1806,5418,2257.5,3160.5
+44044,United States,White Chocolate Macadamia Nut,2821,16926,7757.75,9168.25
+44105,United States,White Chocolate Macadamia Nut,1566,9396,4306.5,5089.5
+43891,United States,White Chocolate Macadamia Nut,1465,8790,4028.75,4761.25
+43831,United States,White Chocolate Macadamia Nut,555,3330,1526.25,1803.75
+43983,United States,White Chocolate Macadamia Nut,602,3612,1655.5,1956.5
+44044,United States,White Chocolate Macadamia Nut,2832,16992,7788,9204
+44105,United States,White Chocolate Macadamia Nut,861,5166,2367.75,2798.25
+43862,United States,White Chocolate Macadamia Nut,2755,16530,7576.25,8953.75
+44136,United States,White Chocolate Macadamia Nut,547,3282,1504.25,1777.75
+44166,United States,White Chocolate Macadamia Nut,1372,8232,3773,4459
+43983,United States,White Chocolate Macadamia Nut,2907,17442,7994.25,9447.75
+43952,United States,White Chocolate Macadamia Nut,790,4740,2172.5,2567.5
+44075,United States,White Chocolate Macadamia Nut,1596,9576,4389,5187
+44105,United States,White Chocolate Macadamia Nut,986,5916,2711.5,3204.5
+43922,United States,White Chocolate Macadamia Nut,606,3636,1666.5,1969.5
+44013,United States,White Chocolate Macadamia Nut,2460,14760,6765,7995
+44166,United States,White Chocolate Macadamia Nut,914,5484,2513.5,2970.5
+43770,United States,Chocolate Chip,912,4560,1824,2736
+43800,United States,Chocolate Chip,1925,9625,3850,5775
+43800,United States,Chocolate Chip,2013,10065,4026,6039
+43739,United States,Chocolate Chip,671,3355,1342,2013
+43739,United States,Chocolate Chip,727,3635,1454,2181
+43709,United States,Chocolate Chip,2931,14655,5862,8793
+43739,United States,Chocolate Chip,386,1930,772,1158
+43709,United States,Chocolate Chip,380,1900,760,1140
+43739,United States,Chocolate Chip,267,1335,534,801
+43770,United States,Chocolate Chip,2007,10035,4014,6021
+43709,United States,Fortune Cookie,2498,2498,499.6,1998.4
+43739,United States,Fortune Cookie,663,663,132.6,530.4
+43770,United States,Fortune Cookie,1804,1804,360.8,1443.2
+43739,United States,Fortune Cookie,2996,2996,599.2,2396.8
+43709,United States,Oatmeal Raisin,1989,9945,4375.8,5569.2
+43739,United States,Oatmeal Raisin,671,3355,1476.2,1878.8
+43739,United States,Oatmeal Raisin,727,3635,1599.4,2035.6
+43770,United States,Oatmeal Raisin,2548,12740,5605.6,7134.4
+43800,United States,Oatmeal Raisin,2015,10075,4433,5642
+43709,United States,Snickerdoodle,330,1320,495,825
+43770,United States,Snickerdoodle,263,1052,394.5,657.5
+43739,United States,Snickerdoodle,386,1544,579,965
+43739,United States,Snickerdoodle,2996,11984,4494,7490
+43800,United States,Sugar,266,798,332.5,465.5
+43709,United States,Sugar,349,1047,436.25,610.75
+43770,United States,Sugar,1265,3795,1581.25,2213.75
+43800,United States,Sugar,808,2424,1010,1414
+43739,United States,Sugar,2294,6882,2867.5,4014.5
+43739,United States,Sugar,267,801,333.75,467.25
+43739,United States,White Chocolate Macadamia Nut,663,3978,1823.25,2154.75
+43709,United States,White Chocolate Macadamia Nut,736,4416,2024,2392
+43800,United States,White Chocolate Macadamia Nut,1421,8526,3907.75,4618.25
+43739,United States,White Chocolate Macadamia Nut,2294,13764,6308.5,7455.5
+43770,United States,White Chocolate Macadamia Nut,2574,15444,7078.5,8365.5
+43800,United States,White Chocolate Macadamia Nut,2438,14628,6704.5,7923.5
+44105,United States,Chocolate Chip,1143,5715,2286,3429
+43862,United States,Chocolate Chip,1514,7570,3028,4542
+43922,United States,Chocolate Chip,4493,22465,8986,13479
+43983,United States,Chocolate Chip,727,3635,1454,2181
+44136,United States,Chocolate Chip,2905,14525,5810,8715
+43983,United States,Chocolate Chip,1142,5710,2284,3426
+44013,United States,Chocolate Chip,1370,6850,2740,4110
+43952,United States,Chocolate Chip,2918,14590,5836,8754
+44013,United States,Chocolate Chip,3450,17250,6900,10350
+44075,United States,Chocolate Chip,1056,5280,2112,3168
+44166,United States,Chocolate Chip,274,1370,548,822
+43891,United States,Chocolate Chip,2992,14960,5984,8976
+43952,United States,Chocolate Chip,2327,11635,4654,6981
+43983,United States,Chocolate Chip,991,4955,1982,2973
+43983,United States,Chocolate Chip,602,3010,1204,1806
+44105,United States,Chocolate Chip,861,4305,1722,2583
+44166,United States,Chocolate Chip,2663,13315,5326,7989
+44044,United States,Chocolate Chip,2198,10990,4396,6594
+44105,United States,Chocolate Chip,1153,5765,2306,3459
+44044,United States,Chocolate Chip,678,3390,1356,2034
+43922,United States,Chocolate Chip,3675,18375,7350,11025
+44166,United States,Chocolate Chip,2797,13985,5594,8391
+43891,United States,Chocolate Chip,973,4865,1946,2919
+43831,United States,Chocolate Chip,3495,17475,6990,10485
+43831,United States,Chocolate Chip,1439,7195,2878,4317
+43862,United States,Chocolate Chip,2641,13205,5282,7923
+44075,United States,Chocolate Chip,1767,8835,3534,5301
+44105,United States,Chocolate Chip,2914,14570,5828,8742
+44136,United States,Chocolate Chip,1177,5885,2354,3531
+44166,United States,Chocolate Chip,914,4570,1828,2742
+44166,United States,Fortune Cookie,615,615,123,492
+43922,United States,Fortune Cookie,2301,2301,460.2,1840.8
+43983,United States,Fortune Cookie,1142,1142,228.4,913.6
+44105,United States,Fortune Cookie,1566,1566,313.2,1252.8
+44013,United States,Fortune Cookie,3627,3627,725.4,2901.6
+44136,United States,Fortune Cookie,2723,2723,544.6,2178.4
+43983,United States,Fortune Cookie,1282,1282,256.4,1025.6
+44166,United States,Fortune Cookie,2797,2797,559.4,2237.6
+44075,United States,Fortune Cookie,2328,2328,465.6,1862.4
+43952,United States,Fortune Cookie,2313,2313,462.6,1850.4
+43891,United States,Fortune Cookie,677,677,135.4,541.6
+43831,United States,Fortune Cookie,983,983,196.6,786.4
+43862,United States,Fortune Cookie,1298,1298,259.6,1038.4
+43922,United States,Oatmeal Raisin,1953,9765,4296.6,5468.4
+44044,United States,Oatmeal Raisin,2141,10705,4710.2,5994.8
+44105,United States,Oatmeal Raisin,1143,5715,2514.6,3200.4
+44166,United States,Oatmeal Raisin,615,3075,1353,1722
+44136,United States,Oatmeal Raisin,1236,6180,2719.2,3460.8
+44166,United States,Oatmeal Raisin,1372,6860,3018.4,3841.6
+43983,United States,Oatmeal Raisin,1282,6410,2820.4,3589.6
+43983,United States,Oatmeal Raisin,2907,14535,6395.4,8139.6
+44075,United States,Oatmeal Raisin,2071,10355,4556.2,5798.8
+43831,United States,Oatmeal Raisin,579,2895,1273.8,1621.2
+43891,United States,Oatmeal Raisin,2993,14965,6584.6,8380.4
+44013,United States,Oatmeal Raisin,3200,16000,7040,8960
+43862,United States,Oatmeal Raisin,270,1350,594,756
+43952,United States,Oatmeal Raisin,2844,14220,6256.8,7963.2
+44105,United States,Oatmeal Raisin,2914,14570,6410.8,8159.2
+43862,United States,Snickerdoodle,1858,7432,2787,4645
+44013,United States,Snickerdoodle,2529,10116,3793.5,6322.5
+44075,United States,Snickerdoodle,1947,7788,2920.5,4867.5
+44166,United States,Snickerdoodle,274,1096,411,685
+43983,United States,Snickerdoodle,991,3964,1486.5,2477.5
+44166,United States,Snickerdoodle,570,2280,855,1425
+43831,United States,Snickerdoodle,1118,4472,1677,2795
+44136,United States,Snickerdoodle,2030,8120,3045,5075
+43891,United States,Snickerdoodle,1761,7044,2641.5,4402.5
+43922,United States,Snickerdoodle,3446,13784,5169,8615
+43983,United States,Snickerdoodle,2567,10268,3850.5,6417.5
+43952,United States,Snickerdoodle,1743,6972,2614.5,4357.5
+44105,United States,Snickerdoodle,1010,4040,1515,2525
+43983,United States,Sugar,727,2181,908.75,1272.25
+43862,United States,Sugar,2844,8532,3555,4977
+44166,United States,Sugar,2663,7989,3328.75,4660.25
+44166,United States,Sugar,570,1710,712.5,997.5
+44105,United States,Sugar,1153,3459,1441.25,2017.75
+44013,United States,Sugar,437,1311,546.25,764.75
+43831,United States,Sugar,1956,5868,2445,3423
+43922,United States,Sugar,1352,4056,1690,2366
+44075,United States,Sugar,1867,5601,2333.75,3267.25
+44044,United States,Sugar,2807,8421,3508.75,4912.25
+43891,United States,Sugar,1579,4737,1973.75,2763.25
+44105,United States,Sugar,986,2958,1232.5,1725.5
+44136,United States,Sugar,2387,7161,2983.75,4177.25
+43983,United States,Sugar,2567,7701,3208.75,4492.25
+44044,United States,Sugar,2541,7623,3176.25,4446.75
+44105,United States,Sugar,1010,3030,1262.5,1767.5
+43952,United States,Sugar,1806,5418,2257.5,3160.5
+44044,United States,White Chocolate Macadamia Nut,2821,16926,7757.75,9168.25
+44105,United States,White Chocolate Macadamia Nut,1566,9396,4306.5,5089.5
+43891,United States,White Chocolate Macadamia Nut,1465,8790,4028.75,4761.25
+43831,United States,White Chocolate Macadamia Nut,555,3330,1526.25,1803.75
+43983,United States,White Chocolate Macadamia Nut,602,3612,1655.5,1956.5
+44044,United States,White Chocolate Macadamia Nut,2832,16992,7788,9204
+44105,United States,White Chocolate Macadamia Nut,861,5166,2367.75,2798.25
+43862,United States,White Chocolate Macadamia Nut,2755,16530,7576.25,8953.75
+44136,United States,White Chocolate Macadamia Nut,547,3282,1504.25,1777.75
+44166,United States,White Chocolate Macadamia Nut,1372,8232,3773,4459
+43983,United States,White Chocolate Macadamia Nut,2907,17442,7994.25,9447.75
+43952,United States,White Chocolate Macadamia Nut,790,4740,2172.5,2567.5
+44075,United States,White Chocolate Macadamia Nut,1596,9576,4389,5187
+44105,United States,White Chocolate Macadamia Nut,986,5916,2711.5,3204.5
+43922,United States,White Chocolate Macadamia Nut,606,3636,1666.5,1969.5
+44013,United States,White Chocolate Macadamia Nut,2460,14760,6765,7995
+44166,United States,White Chocolate Macadamia Nut,914,5484,2513.5,2970.5

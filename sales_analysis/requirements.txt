@@ -1,0 +1,12 @@
+numpy 
+pandas
+datetime 
+dash 
+plotly 
+dash_bootstrap_components
+warnings 
+matplotlib
+seaborn 
+statsmodels
+prophet 
+sklearn
