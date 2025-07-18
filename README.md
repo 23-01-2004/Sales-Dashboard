@@ -17,27 +17,30 @@ The dashboard provides various interactive charts and graphs to help users gain 
   - Products
   - Interested Plots
   - Forecast Model
-  - 
+---
 - **Visualizations**:
   - Daily Revenue Trend: Tracks daily sales fluctuations of revenue of the company. 
   -  Monthly Revenue Trend: Tracks the monthly revenue fluctuations. 
   - Sales by Product and Country: Individual Bar Charts which shows Sales of Product of each country. 
   - Profit Margin by Product: A plot to understand which products are most/least profitable. 
-  - Bubble Chart: A multi-metric view including Units Sold, Revenue and Profit Margin. 
+  - Bubble Chart: A multi-metric view including Units Sold, Revenue and Profit Margin.
+---
 - **Forecasting**:
   - Auto Regressive Integrated Moving Average (ARIMA): This plot is the best for linear trends.
   - Exponential Smoothing: This plot is ideal for seasonal or trend based forecasting.
-  - Prophet: Prophet introduced by meta is designed for daily trends with seasonal effects. 
-- **Machine Learning**:
+  - Prophet: Prophet introduced by meta is designed for daily trends with seasonal effects.
+---
+- **Machine Learning Modeling**:
   - Random Forest for Profit Prediction
   - Actual vs Predicted profit comparison with feature importance visualization.
+---
 - **Risk Analysis**: 
 - Identify products with low margins or declining performance.
 - Revenue Volatility: Coefficient of Variation is used to plot overall stability of products in every country.
 - Concentration Risk: This metric along with individual pie charts are plotted to examine over-dependency on any particular product or any country.
 - Profitability Risk: This metric highlights low margin products which could cause potential risks which highlights revneue fluctuations, unexpected exprenses and Economic Downturns.
 
-  # Below is a overall brief about the Dashboard features :
+# Below is a overall brief about the Dashboard features :
 
  | **Component** | **Description** |
 |---------------|----------------|
@@ -75,7 +78,7 @@ The dashboard provides various interactive charts and graphs to help users gain 
 | Run App | Run the Dash app with debug mode enabled. |
 
 
-## Installation
+## Installation Guide
 
 ### 1. Clone the Repository
 
@@ -111,7 +114,7 @@ a. Auto-Regressive Integrated Moving Average Model (ARIMA).
 
 b. Exponential Smoothing.
 
-c. Prophet (Meta). 
+c. Prophet By Meta. 
 
 
 3. Sales Insights: Bar Charts, Pie Plots, Grouped Bar Charts, Histograms and KDE Distributions are displayed for multiple combination of features to find overall revenue on each or multiple countries for each or multiple products. Revenue and Profit Margin of each product were also displayed so further improvements could be done on minor classes. 
