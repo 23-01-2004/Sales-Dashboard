@@ -59,10 +59,14 @@ python src/app.py
 
 2. Forecasting:
  - Further Filters are given to forecast future values based on 3 target variable (Revenue, Units Sold, Profit)the user can choose from.
- - Forecasting is done via 3 different models 
+ - Forecasting is done via 3 different models
+ - 
 a. Auto-Regressive Integrated Moving Average Model (ARIMA).
+
 b. Exponential Smoothing.
+
 c. Prophet (Meta). 
+
 
 3. Sales Insights: Bar Charts, Pie Plots, Grouped Bar Charts, Histograms and KDE Distributions are displayed for multiple combination of features to find overall revenue on each or multiple countries for each or multiple products. Revenue and Profit Margin of each product were also displayed so further improvements could be done on minor classes. 
 
