@@ -1,6 +1,13 @@
-# Sales Analysis Dashboard
+# Sales Performance & Business Intelligence (BI) Dashboard
 
-A **Sales Analysis Dashboard** built using **Dash (Plotly)** that allows users to visualize and analyze sales data, make forecasts using different models, and predict profits using machine learning. The dashboard provides various interactive charts and graphs to help users gain insights into business performance across multiple dimensions.
+An interactive **Sales Performance Dashboard** provides end-to-end analytics for a speciality product company operating across multi-country markets. Built using **Dash-Plotly** that delivers 
+- Sales Insights, profitability analysis, and Risk Monitoring
+- AI-Powered forecasts and Machine Learning (ML) modeling
+- Visualizations of different types on sales data
+
+The dashboard provides various interactive charts and graphs to help users gain insights into business performance across multiple dimensions.
+
+---
 
 ## Features
 
