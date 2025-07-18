@@ -32,40 +32,41 @@ A **Sales Analysis Dashboard** built using **Dash (Plotly)** that allows users t
 
   # Below is a overall brief about the Dashboard features :
 
-  | Component | Description |
-|----------|-------------|
-| **Data Loading** | Loaded and prepared data using `load_and_clean_data()` function. |
-| **Dash App Initialization** | Initialized a Dash app with a Bootstrap theme. |
-| **Sidebar** | Created a sidebar with filters for date range, countries, products, plots, forecast models, and target variables. |
-| | **Date Range Picker** | Allows users to select a date range for filtering data. |
-| | **Country Dropdown** | Dropdown to select countries for filtering data. |
-| | **Product Dropdown** | Dropdown to select products for filtering data. |
-| | **Plot Selector** | Dropdown to select which plots to display. |
-| | **Forecast Model Selector** | Dropdown to select the forecasting model (ARIMA, Exponential Smoothing, Prophet). |
-| | **Target Variable Selector** | Dropdown to select the target variable for forecasting (Units Sold, Revenue, Profit). |
-| **Main Content Area** | Defined the main content area for displaying plots and analysis results. |
-| **Layout** | Structured the layout of the app with a sidebar and main content area. |
-| **Summary Stats** | Generated summary statistics for total revenue, cost, profit, and average profit margin. |
-| | **Summary Cards** | Created cards to display summary statistics. |
-| **Plot Generation** | Generated various plots based on user selection. |
-| | **Daily Revenue Trend** | Line plot showing daily revenue fluctuations over time. |
-| | **Monthly Revenue Trend** | Line plot showing aggregated monthly revenue trend. |
-| | **Revenue by Month** | Bar plot showing average revenue per month across all years. |
-| | **Country-wise Monthly Revenue** | Line plot showing monthly revenue by country. |
-| | **Sales by Country** | Bar plot showing total revenue generated per country. |
-| | **Sales by Product** | Bar plot showing total revenue per product type. |
-| | **Profit Margin by Product** | Bar plot showing average profit margin per product. |
-| | **Grouped Sales by Product & Country** | Grouped bar plot visualizing sales per product in each country. |
-| | **Bubble Chart** | Bubble chart showing profit margin vs units sold vs revenue. |
-| **Forecasting Analysis** | Integrated forecasting analysis using selected models and target variables. |
-| | **Forecast Plot** | Plot showing actual data in blue and forecasted data in red. |
-| | **Forecast Table** | Table displaying forecasted data. |
-| **Risk Analysis** | Generated a risk analysis section. |
-| **Callback Function** | Defined a callback function to update the dashboard based on user inputs and selections. |
-| | **Filter Data** | Filtered data based on selected date range, countries, and products. |
-| | **Generate Plots** | Generated selected plots based on user input. |
-| | **Forecasting** | Performed forecasting using the selected model and target variable, and displayed the results. |
-| **Run App** | Ran the Dash app with debug mode enabled. |
+ | **Component** | **Description** |
+|---------------|----------------|
+| Data Loading | Load and prepare data using the `load_and_clean_data()` function. |
+| Dash App Initialization | Initialize a Dash app with a Bootstrap theme. |
+| Sidebar | Create a sidebar with filters for date range, countries, products, plots, forecast models, and target variables. |
+| | Date Range Picker | Allow users to select a date range for filtering data. |
+| | Country Dropdown | Dropdown to select countries for filtering data. |
+| | Product Dropdown | Dropdown to select products for filtering data. |
+| | Plot Selector | Dropdown to select which plots to display. |
+| | Forecast Model Selector | Dropdown to select the forecasting model (ARIMA, Exponential Smoothing, Prophet). |
+| | Target Variable Selector | Dropdown to select the target variable for forecasting (Units Sold, Revenue, Profit). |
+| Main Content Area | Define the main content area for displaying plots and analysis results. |
+| Layout | Structure the layout of the app with a sidebar and main content area. |
+| Summary Stats | Generate summary statistics for total revenue, cost, profit, and average profit margin. |
+| | Summary Cards | Create cards to display summary statistics. |
+| Plot Generation | Generate various plots based on user selection. |
+| | Daily Revenue Trend | Line plot showing daily revenue fluctuations over time. |
+| | Monthly Revenue Trend | Line plot showing aggregated monthly revenue trend. |
+| | Revenue by Month | Bar plot showing average revenue per month across all years. |
+| | Country-wise Monthly Revenue | Line plot showing monthly revenue by country. |
+| | Sales by Country | Bar plot showing total revenue generated per country. |
+| | Sales by Product | Bar plot showing total revenue per product type. |
+| | Profit Margin by Product | Bar plot showing average profit margin per product. |
+| | Grouped Sales by Product & Country | Grouped bar plot visualizing sales per product in each country. |
+| | Bubble Chart | Bubble chart showing profit margin vs units sold vs revenue. |
+| Forecasting Analysis | Integrate forecasting analysis using selected models and target variables. |
+| | Forecast Plot | Plot showing actual data in blue and forecasted data in red. |
+| | Forecast Table | Table displaying forecasted data. |
+| Risk Analysis | Generate a risk analysis section. |
+| Callback Function | Define a callback function to update the dashboard based on user inputs and selections. |
+| | Filter Data | Filter data based on selected date range, countries, and products. |
+| | Generate Plots | Generate selected plots based on user input. |
+| | Forecasting | Perform forecasting using the selected model and target variable, and display the results. |
+| Run App | Run the Dash app with debug mode enabled. |
+
 
 ## Installation
 
