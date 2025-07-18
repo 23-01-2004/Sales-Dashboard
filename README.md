@@ -121,7 +121,7 @@ c. Prophet By Meta.
 
 4. Machine Learning: Get profit predictions using a trained Random Forest model and see the importance of different features.
 
-- You can also directly check the deployed dashboard fromm the following link and use it by uploading your data in CSV format.
+### You can also directly check the deployed dashboard fromm the following link and use it by uploading your data in CSV format.
   ```bash
   https://sales-dashboard-1-sc67.onrender.com/
   ```
