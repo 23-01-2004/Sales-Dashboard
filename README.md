@@ -40,7 +40,7 @@ The dashboard provides various interactive charts and graphs to help users gain 
 - Concentration Risk: This metric along with individual pie charts are plotted to examine over-dependency on any particular product or any country.
 - Profitability Risk: This metric highlights low margin products which could cause potential risks which highlights revneue fluctuations, unexpected exprenses and Economic Downturns.
 
-# Below is a overall brief about the Dashboard features :
+# Below is an overall brief about the Dashboard features :
 
  | **Component** | **Description** |
 |---------------|----------------|
