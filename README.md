@@ -7,6 +7,10 @@ An interactive **Sales Performance Dashboard** provides end-to-end analytics for
 
 The dashboard provides various interactive charts and graphs to help users gain insights into business performance across multiple dimensions.
 
+### One can directly check the deployed dashboard fromm the following link and use it by uploading their own sales data in CSV format:
+  ```bash
+  https://sales-dashboard-1-sc67.onrender.com/
+  ```
 ---
 
 ## Features
@@ -121,9 +125,6 @@ c. Prophet By Meta.
 
 4. Machine Learning: Get profit predictions using a trained Random Forest model and see the importance of different features.
 
-### You can also directly check the deployed dashboard fromm the following link and use it by uploading your data in CSV format.
-  ```bash
-  https://sales-dashboard-1-sc67.onrender.com/
-  ```
+
 
 
