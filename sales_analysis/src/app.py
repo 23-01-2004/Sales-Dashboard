@@ -6,6 +6,7 @@ import pandas as pd
 import dash_bootstrap_components as dbc
 import base64
 import io
+import os
 import numpy as np
 from datetime import datetime, timedelta
 import warnings
@@ -1116,5 +1117,12 @@ def update_dashboard(n_clicks, uploaded_contents, filename, start_date, end_date
         ]
 
 # Run the app
+
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(
+        host='0.0.0.0',
+        port=int(os.environ.get('PORT', 8050)),
+        debug=True
+    )
+
